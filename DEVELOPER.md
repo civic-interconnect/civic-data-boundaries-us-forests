@@ -27,12 +27,6 @@ civic-usa index
 civic-usa cleanup
 ```
 
-If needed, delete any additional large files:
-- civic-data-boundaries-us-forests\data-in\tiger\tl_2022_us_counties.zip
-- civic-data-boundaries-us-forests\data-in\tiger\tl_2022_us_state.zip
-- civic-interconnect\civic-data-boundaries-us-forests\data-in\tiger\tl_2022_us_county\tl_2022_us_county.shp
-- civic-data-boundaries-us-forests\data-in\tiger\tl_2022_us_state\tl_2022_us_state.shp
-
 ## Releasing New Version
 
 Before publishing a new version, delete .venv. and recreate and activate.
@@ -54,6 +48,6 @@ mkdocs serve
 After verifying changes:
 
 ```powershell
-civic-dev bump-version 0.1.3 0.1.4
+civic-dev bump-version 0.0.1 0.0.2
 civic-dev release
 ```

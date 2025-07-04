@@ -52,7 +52,7 @@ tmp/
 .github/workflows/__pycache__/
 
 # ----------------------------------------
-# Intermediate Pipeline Folders 
+# Intermediate Pipeline Folders
 # ----------------------------------------
 data-in/
 data-in-geojson/

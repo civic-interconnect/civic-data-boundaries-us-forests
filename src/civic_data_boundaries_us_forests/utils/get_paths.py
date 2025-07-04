@@ -3,34 +3,22 @@ civic_data_boundaries_us_forests.utils.get_paths
 
 Utilities for resolving paths to various data directories
 in the civic_data_boundaries_us_forests package.
+
+Ensures that the pipeline works when run directly
+from source code and when invoked via the installed CLI.
 """
 
 from pathlib import Path
 
 __all__ = [
-    "get_repo_root",
     "get_data_in_dir",
     "get_data_in_geojson_dir",
     "get_data_out_dir",
     "get_layer_in_dir",
     "get_layer_in_geojson_dir",
     "get_layer_out_dir",
+    "get_repo_root",
 ]
-
-
-def get_repo_root(levels_up: int = 3) -> Path:
-    """
-    Return the root directory of the repo by walking up parent folders.
-
-    Args:
-        levels_up (int): How many levels up to go from this file.
-            Defaults to 3, assuming this file is under:
-            src/civic_data_boundaries_us_forests/utils/
-
-    Returns:
-        Path: Root directory of the repository.
-    """
-    return Path(__file__).resolve().parents[levels_up]
 
 
 def get_data_in_dir() -> Path:
@@ -105,3 +93,32 @@ def get_layer_out_dir(layer_output_dir: str) -> Path:
         Path: Full path to that layer's folder under data-out/.
     """
     return get_data_out_dir() / layer_output_dir
+
+
+def get_repo_root() -> Path:
+    """
+    Return the root directory of the civic-data-boundaries-us-forests repository.
+
+    This function first checks whether the file path is running from
+    a cloned source repo (using __file__ as a reference), and if that
+    does not locate the repo, searches upward from the current working
+    directory until it finds a folder containing a data-config directory.
+
+    Returns:
+        Path: Path to the repository root.
+
+    Raises:
+        RuntimeError: If the repo root cannot be found.
+    """
+    # Check if we’re running from source
+    source_root = Path(__file__).resolve().parents[3]
+    if (source_root / "data-config").exists():
+        return source_root
+
+    # Otherwise search upwards from CWD
+    current = Path.cwd()
+    for parent in [current] + list(current.parents):
+        if (parent / "data-config").exists():
+            return parent
+
+    raise RuntimeError(f"Could not locate repository root from working dir: {Path.cwd()}")

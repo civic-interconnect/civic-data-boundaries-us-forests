@@ -13,7 +13,6 @@ nav:
 - API Reference:
   - Developer: api/DEVELOPER.md
   - Readme: api/README.md
-  - Ref Api: api/REF_API.md
 plugins:
 - search
 markdown_extensions:
