@@ -11,8 +11,16 @@ theme:
 nav:
 - Home: index.md
 - API Reference:
-  - Developer: api/DEVELOPER.md
-  - Readme: api/README.md
+    - civic_data_boundaries_us_forests.chunk: api/civic_data_boundaries_us_forests.chunk.md
+    - civic_data_boundaries_us_forests.cleanup: api/civic_data_boundaries_us_forests.cleanup.md
+    - civic_data_boundaries_us_forests.cli.cli: api/civic_data_boundaries_us_forests.cli.cli.md
+    - civic_data_boundaries_us_forests.export: api/civic_data_boundaries_us_forests.export.md
+    - civic_data_boundaries_us_forests.fetch: api/civic_data_boundaries_us_forests.fetch.md
+    - civic_data_boundaries_us_forests.index: api/civic_data_boundaries_us_forests.index.md
+    - civic_data_boundaries_us_forests.utils.chunk_utils: api/civic_data_boundaries_us_forests.utils.chunk_utils.md
+    - civic_data_boundaries_us_forests.utils.export_utils: api/civic_data_boundaries_us_forests.utils.export_utils.md
+    - civic_data_boundaries_us_forests.utils.get_paths: api/civic_data_boundaries_us_forests.utils.get_paths.md
+
 plugins:
 - search
 markdown_extensions:
