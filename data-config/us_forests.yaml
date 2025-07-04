@@ -1,0 +1,10 @@
+layers:
+  - name: us-forests
+    year: 2022
+    nationwide: true
+    url: https://data.fs.usda.gov/geodata/edw/edw_resources/shp/S_USA.AdministrativeForest.zip
+    output_dir: forests
+    split_by: FORESTNAME
+    extract: true
+    chunk_max_features: 500
+    simplify_tolerance: 0.01

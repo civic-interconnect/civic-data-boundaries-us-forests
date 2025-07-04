@@ -1,0 +1,10 @@
+layers:
+  - name: us-forest-districts
+    year: 2025
+    nationwide: true
+    url: https://data.fs.usda.gov/geodata/edw/edw_resources/shp/S_USA.RangerDistrict.zip
+    output_dir: forests/districts
+    split_by: DISTRICTNA
+    extract: true
+    chunk_max_features: 500
+    simplify_tolerance: 0.01

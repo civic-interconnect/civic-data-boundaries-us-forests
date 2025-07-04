@@ -1,0 +1,4982 @@
+[
+  {
+    "path": "data-out/forests/admiralty_national_monument/admiralty_national_monument.geojson",
+    "bbox": [
+      -134.811068,
+      56.96362,
+      -133.793212,
+      58.19518
+    ],
+    "size_mb": 0.33
+  },
+  {
+    "path": "data-out/forests/almanor_ranger_district/almanor_ranger_district.geojson",
+    "bbox": [
+      -121.912688,
+      39.925794,
+      -120.997864,
+      40.5556
+    ],
+    "size_mb": 0.04
+  },
+  {
+    "path": "data-out/forests/alpine_ranger_district/alpine_ranger_district.geojson",
+    "bbox": [
+      -109.495568,
+      33.447582,
+      -109.04688,
+      34.045223
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/amador_ranger_district/amador_ranger_district.geojson",
+    "bbox": [
+      -120.589018,
+      38.445717,
+      -119.840243,
+      38.740498
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/american_river_ranger_district/american_river_ranger_district.geojson",
+    "bbox": [
+      -120.829794,
+      38.99606,
+      -120.276108,
+      39.329298
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/andrew_pickens_ranger_district/andrew_pickens_ranger_district.geojson",
+    "bbox": [
+      -83.353373,
+      34.662413,
+      -82.897433,
+      35.055983
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/androscoggin_ranger_district/androscoggin_ranger_district.geojson",
+    "bbox": [
+      -71.488616,
+      44.225594,
+      -70.764238,
+      44.621052
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/angelina_ranger_district/angelina_ranger_district.geojson",
+    "bbox": [
+      -94.794734,
+      30.991252,
+      -94.06041,
+      31.51662
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/apalachicola_ranger_district/apalachicola_ranger_district.geojson",
+    "bbox": [
+      -86.966772,
+      29.879729,
+      -84.595101,
+      30.707348
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/appalachian_ranger_district/appalachian_ranger_district.geojson",
+    "bbox": [
+      -83.111275,
+      35.602824,
+      -81.933395,
+      36.228219
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/ashland_ranger_district/ashland_ranger_district.geojson",
+    "bbox": [
+      -106.480311,
+      45.174124,
+      -105.796772,
+      45.788617
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/ashton-island_park_ranger_district/ashton-island_park_ranger_district.geojson",
+    "bbox": [
+      -111.81986,
+      43.911385,
+      -110.769911,
+      44.753135
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/aspen_ranger_district/aspen_ranger_district.geojson",
+    "bbox": [
+      -107.147336,
+      38.978183,
+      -106.558155,
+      39.357484
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/athens_ranger_district/athens_ranger_district.geojson",
+    "bbox": [
+      -82.599825,
+      39.298043,
+      -80.939053,
+      39.793857
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/austin-tonopah_ranger_district/austin-tonopah_ranger_district.geojson",
+    "bbox": [
+      -117.926931,
+      38.053517,
+      -116.184135,
+      39.574678
+    ],
+    "size_mb": 0.03
+  },
+  {
+    "path": "data-out/forests/ava-cassville-willow_springs_ranger_district/ava-cassville-willow_springs_ranger_district.geojson",
+    "bbox": [
+      -93.906753,
+      36.497603,
+      -91.875399,
+      37.058713
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/baldwin_ranger_district/baldwin_ranger_district.geojson",
+    "bbox": [
+      -86.398253,
+      43.728448,
+      -85.56262,
+      44.079027
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/bankhead_ranger_district/bankhead_ranger_district.geojson",
+    "bbox": [
+      -87.627043,
+      33.984983,
+      -87.110282,
+      34.462937
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/barlow_ranger_district/barlow_ranger_district.geojson",
+    "bbox": [
+      -121.689865,
+      45.081374,
+      -121.125167,
+      45.509362
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/bass_lake_ranger_district/bass_lake_ranger_district.geojson",
+    "bbox": [
+      -119.92785,
+      37.075655,
+      -119.118209,
+      37.72953
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/bayou_ranger_district/bayou_ranger_district.geojson",
+    "bbox": [
+      -93.314793,
+      35.399577,
+      -92.706486,
+      35.754444
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/bearlodge_ranger_district/bearlodge_ranger_district.geojson",
+    "bbox": [
+      -104.719541,
+      43.640659,
+      -104.054587,
+      44.795464
+    ],
+    "size_mb": 0.04
+  },
+  {
+    "path": "data-out/forests/beartooth_ranger_district/beartooth_ranger_district.geojson",
+    "bbox": [
+      -110.156629,
+      45.003212,
+      -108.3163,
+      45.565024
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/beaver_ranger_district/beaver_ranger_district.geojson",
+    "bbox": [
+      -112.633782,
+      38.130089,
+      -112.234773,
+      38.605129
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/beckwourth_ranger_district/beckwourth_ranger_district.geojson",
+    "bbox": [
+      -120.866159,
+      39.648813,
+      -120.042735,
+      40.292728
+    ],
+    "size_mb": 0.03
+  },
+  {
+    "path": "data-out/forests/belt_creek-white_sulphur_springs_ranger_district/belt_creek-white_sulphur_springs_ranger_district.geojson",
+    "bbox": [
+      -111.302276,
+      46.160603,
+      -110.238906,
+      47.153797
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/bend-fort_rock_ranger_district/bend-fort_rock_ranger_district.geojson",
+    "bbox": [
+      -121.981204,
+      43.356522,
+      -120.753766,
+      44.159889
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/bergland_ranger_district/bergland_ranger_district.geojson",
+    "bbox": [
+      -89.864729,
+      46.41932,
+      -89.239888,
+      46.764805
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/bessemer_ranger_district/bessemer_ranger_district.geojson",
+    "bbox": [
+      -90.418997,
+      46.211438,
+      -89.365057,
+      46.722465
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/bessey_ranger_district/bessey_ranger_district.geojson",
+    "bbox": [
+      -101.285911,
+      41.775813,
+      -100.188832,
+      42.785687
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/bienville_ranger_district/bienville_ranger_district.geojson",
+    "bbox": [
+      -89.696295,
+      32.047211,
+      -89.219796,
+      32.576951
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/big_bar_ranger_district/big_bar_ranger_district.geojson",
+    "bbox": [
+      -123.532645,
+      40.629437,
+      -122.968761,
+      41.17385
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/big_piney_ranger_district/big_piney_ranger_district.geojson",
+    "bbox": [
+      -110.661818,
+      42.365333,
+      -110.101024,
+      43.381393
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/big_valley_ranger_district/big_valley_ranger_district.geojson",
+    "bbox": [
+      -121.52576,
+      40.905449,
+      -120.541574,
+      41.516578
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/blackduck_ranger_district/blackduck_ranger_district.geojson",
+    "bbox": [
+      -94.676333,
+      47.344902,
+      -93.946698,
+      47.847451
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/blackrock_ranger_district/blackrock_ranger_district.geojson",
+    "bbox": [
+      -110.683592,
+      43.644054,
+      -109.722694,
+      44.323772
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/black_kettle_national_grassland/black_kettle_national_grassland.geojson",
+    "bbox": [
+      -100.890505,
+      35.20445,
+      -99.53509,
+      35.891717
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/black_mesa_ranger_district/black_mesa_ranger_district.geojson",
+    "bbox": [
+      -111.095804,
+      34.25843,
+      -110.269429,
+      34.749191
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/black_range_ranger_district/black_range_ranger_district.geojson",
+    "bbox": [
+      -108.34667,
+      32.734504,
+      -107.631324,
+      33.695783
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/blanco_ranger_district/blanco_ranger_district.geojson",
+    "bbox": [
+      -107.916707,
+      39.758985,
+      -107.090103,
+      40.250371
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/blue_mountain_ranger_district/blue_mountain_ranger_district.geojson",
+    "bbox": [
+      -119.494643,
+      43.997365,
+      -118.305879,
+      44.808584
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/blue_ridge_ranger_district/blue_ridge_ranger_district.geojson",
+    "bbox": [
+      -84.467679,
+      34.529203,
+      -83.593225,
+      34.987632
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/bly_ranger_district/bly_ranger_district.geojson",
+    "bbox": [
+      -121.369912,
+      42.121594,
+      -120.667586,
+      42.826301
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/bonners_ferry_ranger_district/bonners_ferry_ranger_district.geojson",
+    "bbox": [
+      -116.926819,
+      48.47243,
+      -115.969017,
+      49.000938
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/boston_mountain_ranger_district/boston_mountain_ranger_district.geojson",
+    "bbox": [
+      -94.493022,
+      35.507393,
+      -93.778733,
+      36.177371
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/boulder_ranger_district/boulder_ranger_district.geojson",
+    "bbox": [
+      -105.699809,
+      39.847892,
+      -105.268035,
+      40.26248
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/bozeman_ranger_district/bozeman_ranger_district.geojson",
+    "bbox": [
+      -111.619209,
+      45.053698,
+      -110.706391,
+      46.118759
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/bradford_ranger_district/bradford_ranger_district.geojson",
+    "bbox": [
+      -79.435216,
+      41.540454,
+      -78.644977,
+      41.998989
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/bradshaw_ranger_district/bradshaw_ranger_district.geojson",
+    "bbox": [
+      -112.883404,
+      34.12839,
+      -112.199312,
+      34.718532
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/bridgeport_ranger_district/bridgeport_ranger_district.geojson",
+    "bbox": [
+      -119.651317,
+      38.009796,
+      -118.460798,
+      38.837723
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/brownstown_ranger_district/brownstown_ranger_district.geojson",
+    "bbox": [
+      -86.849794,
+      38.526223,
+      -86.047777,
+      39.108387
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/brush_creek-hayden_ranger_district/brush_creek-hayden_ranger_district.geojson",
+    "bbox": [
+      -107.327315,
+      40.999856,
+      -106.230645,
+      41.583392
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/buffalo_ranger_district/buffalo_ranger_district.geojson",
+    "bbox": [
+      -93.61415,
+      35.650846,
+      -92.856783,
+      36.068195
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/butte_ranger_district/butte_ranger_district.geojson",
+    "bbox": [
+      -113.280797,
+      45.564076,
+      -111.849001,
+      46.422721
+    ],
+    "size_mb": 0.11
+  },
+  {
+    "path": "data-out/forests/cabinet_ranger_district/cabinet_ranger_district.geojson",
+    "bbox": [
+      -116.103396,
+      47.617131,
+      -115.248258,
+      48.263785
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/caddo_-_lyndon_b._johnson_national_grasslands/caddo_-_lyndon_b._johnson_national_grasslands.geojson",
+    "bbox": [
+      -97.795065,
+      33.223044,
+      -95.854919,
+      33.800204
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/caddo_ranger_district/caddo_ranger_district.geojson",
+    "bbox": [
+      -94.055817,
+      34.290917,
+      -93.053714,
+      34.510924
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/cadillac_ranger_district/cadillac_ranger_district.geojson",
+    "bbox": [
+      -86.540494,
+      42.489488,
+      -83.858445,
+      44.960732
+    ],
+    "size_mb": 0.03
+  },
+  {
+    "path": "data-out/forests/calaveras_ranger_district/calaveras_ranger_district.geojson",
+    "bbox": [
+      -120.485074,
+      38.135878,
+      -119.757626,
+      38.581962
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/calcasieu_ranger_district/calcasieu_ranger_district.geojson",
+    "bbox": [
+      -93.281836,
+      30.923269,
+      -92.434604,
+      31.358674
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/camino_real_ranger_district/camino_real_ranger_district.geojson",
+    "bbox": [
+      -105.875425,
+      35.972547,
+      -105.292242,
+      36.446162
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/caney_ranger_district/caney_ranger_district.geojson",
+    "bbox": [
+      -93.324044,
+      32.644032,
+      -92.725104,
+      32.975988
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/canjilon_ranger_district/canjilon_ranger_district.geojson",
+    "bbox": [
+      -106.688782,
+      36.307927,
+      -106.287944,
+      36.621404
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/canyon_lakes_ranger_district/canyon_lakes_ranger_district.geojson",
+    "bbox": [
+      -106.195209,
+      40.232647,
+      -105.079625,
+      40.997755
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/carson_ranger_district/carson_ranger_district.geojson",
+    "bbox": [
+      -120.147858,
+      38.354748,
+      -119.542824,
+      39.736374
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/cascade_ranger_district/cascade_ranger_district.geojson",
+    "bbox": [
+      -116.211122,
+      44.346336,
+      -115.375641,
+      44.969765
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/catahoula_ranger_district/catahoula_ranger_district.geojson",
+    "bbox": [
+      -92.654283,
+      31.402537,
+      -92.29794,
+      31.742523
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/catalina_field_office/catalina_field_office.geojson",
+    "bbox": [
+      -66.539703,
+      18.033744,
+      -65.69967,
+      18.400305
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/cave_creek_ranger_district/cave_creek_ranger_district.geojson",
+    "bbox": [
+      -112.065178,
+      33.674155,
+      -111.468067,
+      34.37593
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/cedar_city_ranger_district/cedar_city_ranger_district.geojson",
+    "bbox": [
+      -113.085558,
+      37.383962,
+      -112.442913,
+      37.985103
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/central_coast_ranger_district-odnra/central_coast_ranger_district-odnra.geojson",
+    "bbox": [
+      -124.286105,
+      43.437525,
+      -123.401221,
+      44.566586
+    ],
+    "size_mb": 0.04
+  },
+  {
+    "path": "data-out/forests/challis-yankee_fork_ranger_district/challis-yankee_fork_ranger_district.geojson",
+    "bbox": [
+      -115.06543,
+      43.940056,
+      -113.452805,
+      44.877793
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/chattooga_river_ranger_district/chattooga_river_ranger_district.geojson",
+    "bbox": [
+      -83.850254,
+      34.421497,
+      -83.10036,
+      35.000666
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/cheat_ranger_district/cheat_ranger_district.geojson",
+    "bbox": [
+      -79.864694,
+      38.864272,
+      -79.425534,
+      39.305343
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/chelan_ranger_district/chelan_ranger_district.geojson",
+    "bbox": [
+      -121.071725,
+      47.83662,
+      -119.926908,
+      48.433738
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/chemult_ranger_district/chemult_ranger_district.geojson",
+    "bbox": [
+      -122.090707,
+      42.733836,
+      -121.349267,
+      43.413833
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/cheoah_ranger_district/cheoah_ranger_district.geojson",
+    "bbox": [
+      -84.038275,
+      35.218109,
+      -83.556661,
+      35.465938
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/chickasawhay_ranger_district/chickasawhay_ranger_district.geojson",
+    "bbox": [
+      -89.057816,
+      31.332123,
+      -88.603896,
+      31.609029
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/chiloquin_ranger_district/chiloquin_ranger_district.geojson",
+    "bbox": [
+      -121.993153,
+      42.369428,
+      -121.163477,
+      42.974664
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/chino_valley_ranger_district/chino_valley_ranger_district.geojson",
+    "bbox": [
+      -113.058245,
+      34.620583,
+      -111.963451,
+      35.154913
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/choctaw_ranger_district/choctaw_ranger_district.geojson",
+    "bbox": [
+      -94.959146,
+      34.674824,
+      -94.450806,
+      34.883945
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/cimarron_ranger_district/cimarron_ranger_district.geojson",
+    "bbox": [
+      -102.042113,
+      36.993072,
+      -101.501637,
+      37.30144
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/clackamas_river_ranger_district/clackamas_river_ranger_district.geojson",
+    "bbox": [
+      -122.314624,
+      44.767565,
+      -121.730969,
+      45.299528
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/clarks_fork_ranger_district/clarks_fork_ranger_district.geojson",
+    "bbox": [
+      -110.000741,
+      44.579801,
+      -109.26027,
+      45.003928
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/clear_creek_ranger_district/clear_creek_ranger_district.geojson",
+    "bbox": [
+      -105.927057,
+      39.534593,
+      -105.333184,
+      39.876446
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/cle_elum_ranger_district/cle_elum_ranger_district.geojson",
+    "bbox": [
+      -121.464119,
+      46.981613,
+      -120.3897,
+      47.595498
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/clifton_ranger_district/clifton_ranger_district.geojson",
+    "bbox": [
+      -109.495717,
+      32.97652,
+      -109.047491,
+      33.579552
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/clinch_ranger_district/clinch_ranger_district.geojson",
+    "bbox": [
+      -83.053186,
+      36.711951,
+      -82.250437,
+      37.323679
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/coeur_d'alene_river_ranger_district/coeur_d'alene_river_ranger_district.geojson",
+    "bbox": [
+      -117.000618,
+      47.407283,
+      -115.629514,
+      48.068677
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/cold_springs_ranger_district/cold_springs_ranger_district.geojson",
+    "bbox": [
+      -94.108267,
+      34.788642,
+      -93.661178,
+      35.07552
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/columbine_ranger_district/columbine_ranger_district.geojson",
+    "bbox": [
+      -108.102106,
+      37.140128,
+      -107.268744,
+      37.90539
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/comanche_ranger_district/comanche_ranger_district.geojson",
+    "bbox": [
+      -104.059313,
+      36.994606,
+      -102.313686,
+      37.910257
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/conasauga_ranger_district/conasauga_ranger_district.geojson",
+    "bbox": [
+      -85.373177,
+      34.332342,
+      -84.329492,
+      34.988081
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/conecuh_ranger_district/conecuh_ranger_district.geojson",
+    "bbox": [
+      -86.85284,
+      30.99404,
+      -85.862651,
+      31.433391
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/conejos_peak_ranger_district/conejos_peak_ranger_district.geojson",
+    "bbox": [
+      -106.70654,
+      36.993812,
+      -105.477254,
+      37.701261
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/cordova_ranger_district/cordova_ranger_district.geojson",
+    "bbox": [
+      -147.928879,
+      59.763812,
+      -143.69553,
+      61.166684
+    ],
+    "size_mb": 1.09
+  },
+  {
+    "path": "data-out/forests/cottage_grove_ranger_district/cottage_grove_ranger_district.geojson",
+    "bbox": [
+      -122.781963,
+      43.516336,
+      -122.528936,
+      43.797322
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/council_ranger_district/council_ranger_district.geojson",
+    "bbox": [
+      -116.830966,
+      44.421902,
+      -116.156973,
+      45.258576
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/covelo_ranger_district/covelo_ranger_district.geojson",
+    "bbox": [
+      -123.246442,
+      39.578649,
+      -122.858708,
+      40.148471
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/cowlitz_valley_ranger_district/cowlitz_valley_ranger_district.geojson",
+    "bbox": [
+      -122.511364,
+      46.256339,
+      -121.352721,
+      46.835065
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/coyote_ranger_district/coyote_ranger_district.geojson",
+    "bbox": [
+      -106.907411,
+      36.003012,
+      -106.412852,
+      36.508632
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/craig_ranger_district/craig_ranger_district.geojson",
+    "bbox": [
+      -133.82497,
+      54.662091,
+      -131.951029,
+      55.662756
+    ],
+    "size_mb": 2.87
+  },
+  {
+    "path": "data-out/forests/crescent_ranger_district/crescent_ranger_district.geojson",
+    "bbox": [
+      -122.153044,
+      43.256262,
+      -121.362553,
+      43.704004
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/croatan_ranger_district/croatan_ranger_district.geojson",
+    "bbox": [
+      -77.242483,
+      34.676687,
+      -76.720181,
+      35.076271
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/crooked_river_national_grassland/crooked_river_national_grassland.geojson",
+    "bbox": [
+      -121.453498,
+      44.390264,
+      -120.980154,
+      44.740196
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/cuba_ranger_district/cuba_ranger_district.geojson",
+    "bbox": [
+      -107.028186,
+      35.808139,
+      -106.615614,
+      36.521169
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/cumberland_ranger_district/cumberland_ranger_district.geojson",
+    "bbox": [
+      -83.983855,
+      37.553768,
+      -83.259094,
+      38.395415
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/darby_ranger_district/darby_ranger_district.geojson",
+    "bbox": [
+      -114.527242,
+      45.869571,
+      -113.748547,
+      46.288347
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/darrington_ranger_district/darrington_ranger_district.geojson",
+    "bbox": [
+      -121.925769,
+      47.957594,
+      -120.906829,
+      48.427572
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/davy_crockett_ranger_district/davy_crockett_ranger_district.geojson",
+    "bbox": [
+      -95.36959,
+      31.031338,
+      -94.849903,
+      31.582992
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/deer_river_ranger_district/deer_river_ranger_district.geojson",
+    "bbox": [
+      -94.201847,
+      46.975672,
+      -93.4489,
+      47.847451
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/delta_ranger_district/delta_ranger_district.geojson",
+    "bbox": [
+      -90.880112,
+      32.575173,
+      -90.655625,
+      32.951136
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/descanso_ranger_district/descanso_ranger_district.geojson",
+    "bbox": [
+      -116.823998,
+      32.654175,
+      -116.377445,
+      32.961622
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/detroit_ranger_district/detroit_ranger_district.geojson",
+    "bbox": [
+      -122.356916,
+      44.428877,
+      -121.784223,
+      44.899671
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/devils_garden_ranger_district/devils_garden_ranger_district.geojson",
+    "bbox": [
+      -121.202935,
+      41.38382,
+      -120.466001,
+      41.993777
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/de_soto_ranger_district/de_soto_ranger_district.geojson",
+    "bbox": [
+      -89.425339,
+      30.389529,
+      -88.602166,
+      31.214929
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/diamond_lake_ranger_district/diamond_lake_ranger_district.geojson",
+    "bbox": [
+      -122.635062,
+      43.081151,
+      -121.974261,
+      43.405098
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/dillon_ranger_district/dillon_ranger_district.geojson",
+    "bbox": [
+      -113.56969,
+      39.361533,
+      -105.775886,
+      45.574343
+    ],
+    "size_mb": 0.03
+  },
+  {
+    "path": "data-out/forests/divide_ranger_district/divide_ranger_district.geojson",
+    "bbox": [
+      -107.555572,
+      37.407767,
+      -106.196511,
+      37.973554
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/doniphan_-_eleven_point_ranger_district/doniphan_-_eleven_point_ranger_district.geojson",
+    "bbox": [
+      -91.530909,
+      36.537506,
+      -90.779283,
+      37.045462
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/doublehead_ranger_district/doublehead_ranger_district.geojson",
+    "bbox": [
+      -121.682475,
+      41.448446,
+      -120.832191,
+      41.997335
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/douglas_ranger_district/douglas_ranger_district.geojson",
+    "bbox": [
+      -110.043657,
+      31.383049,
+      -108.920615,
+      32.137459
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/douglas_ranger_district-thunder_basin_national_grassland/douglas_ranger_district-thunder_basin_national_grassland.geojson",
+    "bbox": [
+      -106.164506,
+      42.000111,
+      -104.314714,
+      44.787328
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/dubois_ranger_district/dubois_ranger_district.geojson",
+    "bbox": [
+      -113.277809,
+      43.885282,
+      -111.803805,
+      44.56357
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/duchesne_ranger_district/duchesne_ranger_district.geojson",
+    "bbox": [
+      -111.03894,
+      39.869754,
+      -110.227122,
+      40.740144
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/eagle_cap_ranger_district/eagle_cap_ranger_district.geojson",
+    "bbox": [
+      -117.727574,
+      45.000004,
+      -117.030174,
+      45.592583
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/eagle_lake_ranger_district/eagle_lake_ranger_district.geojson",
+    "bbox": [
+      -121.312155,
+      40.190211,
+      -120.567965,
+      40.882353
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/eagle_ranger_district/eagle_ranger_district.geojson",
+    "bbox": [
+      -107.366704,
+      39.422724,
+      -106.531681,
+      40.014324
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/eagle_river-florence_ranger_district/eagle_river-florence_ranger_district.geojson",
+    "bbox": [
+      -89.617514,
+      45.709932,
+      -88.301366,
+      46.239921
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/eastern_divide_ranger_district/eastern_divide_ranger_district.geojson",
+    "bbox": [
+      -81.519184,
+      36.882922,
+      -79.805178,
+      37.712856
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/ely_ranger_district/ely_ranger_district.geojson",
+    "bbox": [
+      -115.842649,
+      37.984398,
+      -114.079017,
+      39.790592
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/el_rito_ranger_district/el_rito_ranger_district.geojson",
+    "bbox": [
+      -106.40141,
+      36.211474,
+      -105.916214,
+      36.648876
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/emigrant_creek_ranger_district/emigrant_creek_ranger_district.geojson",
+    "bbox": [
+      -119.837256,
+      43.55624,
+      -118.525108,
+      44.131531
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/emmett_ranger_district/emmett_ranger_district.geojson",
+    "bbox": [
+      -116.323042,
+      43.974941,
+      -115.609329,
+      44.508484
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/enoree_ranger_district/enoree_ranger_district.geojson",
+    "bbox": [
+      -81.838552,
+      34.302389,
+      -81.293563,
+      34.787439
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/entiat_ranger_district/entiat_ranger_district.geojson",
+    "bbox": [
+      -120.808207,
+      47.528688,
+      -120.129283,
+      48.167023
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/escalante_ranger_district/escalante_ranger_district.geojson",
+    "bbox": [
+      -112.094121,
+      37.597694,
+      -111.353622,
+      38.151229
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/espanola_ranger_district/espanola_ranger_district.geojson",
+    "bbox": [
+      -106.507121,
+      35.545035,
+      -105.632923,
+      36.232863
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/evanston-mountain_view_ranger_district/evanston-mountain_view_ranger_district.geojson",
+    "bbox": [
+      -111.160469,
+      40.710255,
+      -110.021408,
+      41.272932
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/fairfield_ranger_district/fairfield_ranger_district.geojson",
+    "bbox": [
+      -115.234923,
+      43.34576,
+      -114.514473,
+      43.851588
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/fall_river_ranger_district/fall_river_ranger_district.geojson",
+    "bbox": [
+      -104.054823,
+      43.000616,
+      -102.678495,
+      43.955404
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/feather_river_ranger_district/feather_river_ranger_district.geojson",
+    "bbox": [
+      -121.694445,
+      39.36811,
+      -120.761559,
+      39.900364
+    ],
+    "size_mb": 0.04
+  },
+  {
+    "path": "data-out/forests/ferron_ranger_district/ferron_ranger_district.geojson",
+    "bbox": [
+      -111.5192,
+      38.939223,
+      -111.077489,
+      39.501801
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/fillmore_ranger_district/fillmore_ranger_district.geojson",
+    "bbox": [
+      -112.562658,
+      38.576443,
+      -111.997046,
+      39.568532
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/flagstaff_ranger_district/flagstaff_ranger_district.geojson",
+    "bbox": [
+      -111.995848,
+      34.797517,
+      -111.207596,
+      35.585339
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/flaming_gorge_ranger_district/flaming_gorge_ranger_district.geojson",
+    "bbox": [
+      -110.059555,
+      40.764805,
+      -109.24096,
+      41.495897
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/fortine_ranger_district/fortine_ranger_district.geojson",
+    "bbox": [
+      -115.15865,
+      48.455705,
+      -114.671723,
+      49.000508
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/fourche_ranger_district/fourche_ranger_district.geojson",
+    "bbox": [
+      -93.726044,
+      34.786592,
+      -93.110305,
+      35.075057
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/fremont_river_ranger_district/fremont_river_ranger_district.geojson",
+    "bbox": [
+      -111.82959,
+      37.929847,
+      -111.18695,
+      38.745342
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/front_country_ranger_district/front_country_ranger_district.geojson",
+    "bbox": [
+      -117.656549,
+      33.906693,
+      -116.719796,
+      34.382997
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/ft._pierre_ranger_district/ft._pierre_ranger_district.geojson",
+    "bbox": [
+      -100.476265,
+      43.977281,
+      -100.066258,
+      44.281625
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/gardiner_ranger_district/gardiner_ranger_district.geojson",
+    "bbox": [
+      -111.107142,
+      45.003087,
+      -109.555965,
+      45.254844
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/gasquet_ranger_district/gasquet_ranger_district.geojson",
+    "bbox": [
+      -124.088604,
+      41.450013,
+      -123.636003,
+      41.996976
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/gauley_ranger_district/gauley_ranger_district.geojson",
+    "bbox": [
+      -80.640648,
+      38.039918,
+      -80.21447,
+      38.460633
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/georgetown_ranger_district/georgetown_ranger_district.geojson",
+    "bbox": [
+      -120.876858,
+      38.771452,
+      -120.346458,
+      39.09974
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/glacier_ranger_district/glacier_ranger_district.geojson",
+    "bbox": [
+      -149.899658,
+      59.886618,
+      -146.480912,
+      61.51899
+    ],
+    "size_mb": 1.78
+  },
+  {
+    "path": "data-out/forests/glacier_view_ranger_district/glacier_view_ranger_district.geojson",
+    "bbox": [
+      -114.735521,
+      48.385133,
+      -114.088506,
+      49.001085
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/glenwood_and_pedlar_ranger_districts/glenwood_and_pedlar_ranger_districts.geojson",
+    "bbox": [
+      -79.886325,
+      37.368964,
+      -78.83916,
+      38.043456
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/glenwood_ranger_district/glenwood_ranger_district.geojson",
+    "bbox": [
+      -109.047487,
+      32.948959,
+      -108.484392,
+      33.698615
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/globe_ranger_district/globe_ranger_district.geojson",
+    "bbox": [
+      -111.250896,
+      33.177787,
+      -110.527521,
+      33.836061
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/gold_beach_ranger_district/gold_beach_ranger_district.geojson",
+    "bbox": [
+      -124.423786,
+      41.99636,
+      -123.869238,
+      42.740777
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/goosenest_ranger_district/goosenest_ranger_district.geojson",
+    "bbox": [
+      -122.350622,
+      41.44748,
+      -121.604617,
+      42.006333
+    ],
+    "size_mb": 0.05
+  },
+  {
+    "path": "data-out/forests/grandfather_ranger_district/grandfather_ranger_district.geojson",
+    "bbox": [
+      -82.288984,
+      35.598064,
+      -81.565592,
+      36.355598
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/grand_river_ranger_district/grand_river_ranger_district.geojson",
+    "bbox": [
+      -102.818293,
+      45.334639,
+      -101.077877,
+      46.074441
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/grand_valley_ranger_district/grand_valley_ranger_district.geojson",
+    "bbox": [
+      -108.877714,
+      38.42197,
+      -107.519072,
+      39.372615
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/great_divide_ranger_district/great_divide_ranger_district.geojson",
+    "bbox": [
+      -91.494135,
+      45.889976,
+      -90.551393,
+      46.370916
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/greenbrier_ranger_district/greenbrier_ranger_district.geojson",
+    "bbox": [
+      -80.056096,
+      38.328105,
+      -79.558279,
+      38.916675
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/greybull_ranger_district/greybull_ranger_district.geojson",
+    "bbox": [
+      -109.551575,
+      43.728668,
+      -108.991795,
+      44.298988
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/greys_river_ranger_district/greys_river_ranger_district.geojson",
+    "bbox": [
+      -111.046784,
+      42.486858,
+      -110.570428,
+      43.227573
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/grindstone_ranger_district/grindstone_ranger_district.geojson",
+    "bbox": [
+      -122.973284,
+      39.170147,
+      -121.777882,
+      40.178837
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/groveland_ranger_district/groveland_ranger_district.geojson",
+    "bbox": [
+      -120.250589,
+      37.646967,
+      -119.760195,
+      38.110842
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/guadalupe_ranger_district/guadalupe_ranger_district.geojson",
+    "bbox": [
+      -105.149222,
+      31.997773,
+      -104.613613,
+      32.605985
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/gunflint_ranger_district/gunflint_ranger_district.geojson",
+    "bbox": [
+      -91.161811,
+      47.659321,
+      -89.867875,
+      48.239554
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/gunnison_ranger_district/gunnison_ranger_district.geojson",
+    "bbox": [
+      -107.538587,
+      37.834456,
+      -106.243542,
+      39.055561
+    ],
+    "size_mb": 0.03
+  },
+  {
+    "path": "data-out/forests/hahns_peak-bears_ears_ranger_district/hahns_peak-bears_ears_ranger_district.geojson",
+    "bbox": [
+      -107.467081,
+      40.299026,
+      -106.56104,
+      41.003399
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/happy_camp_ranger_district/happy_camp_ranger_district.geojson",
+    "bbox": [
+      -123.703774,
+      41.550058,
+      -123.21149,
+      42.000756
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/harrisville_ranger_district/harrisville_ranger_district.geojson",
+    "bbox": [
+      -84.009722,
+      44.509023,
+      -83.294595,
+      44.815089
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/hat_creek_ranger_district/hat_creek_ranger_district.geojson",
+    "bbox": [
+      -122.30267,
+      40.424781,
+      -120.924234,
+      41.351827
+    ],
+    "size_mb": 0.03
+  },
+  {
+    "path": "data-out/forests/hayfork_ranger_district/hayfork_ranger_district.geojson",
+    "bbox": [
+      -123.585676,
+      40.268436,
+      -122.895903,
+      40.719203
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/heber-kamas_ranger_district/heber-kamas_ranger_district.geojson",
+    "bbox": [
+      -111.519581,
+      39.985025,
+      -110.765076,
+      40.804138
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/hebgen_lake_ranger_district/hebgen_lake_ranger_district.geojson",
+    "bbox": [
+      -111.488593,
+      44.486625,
+      -111.096791,
+      45.173492
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/hebo_ranger_district/hebo_ranger_district.geojson",
+    "bbox": [
+      -124.012865,
+      44.699301,
+      -123.196254,
+      45.354324
+    ],
+    "size_mb": 0.03
+  },
+  {
+    "path": "data-out/forests/hector_ranger_district/hector_ranger_district.geojson",
+    "bbox": [
+      -76.881094,
+      42.431466,
+      -76.733879,
+      42.607074
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/helena_ranger_district/helena_ranger_district.geojson",
+    "bbox": [
+      -112.577883,
+      46.293987,
+      -111.475762,
+      46.946043
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/hells_canyon_national_recreation_area/hells_canyon_national_recreation_area.geojson",
+    "bbox": [
+      -117.096133,
+      44.934934,
+      -116.378536,
+      45.996899
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/hell_canyon_ranger_district/hell_canyon_ranger_district.geojson",
+    "bbox": [
+      -104.055323,
+      43.274764,
+      -103.366003,
+      44.203285
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/heppner_ranger_district/heppner_ranger_district.geojson",
+    "bbox": [
+      -119.959781,
+      44.823514,
+      -119.210532,
+      45.353102
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/hidden_springs_ranger_district/hidden_springs_ranger_district.geojson",
+    "bbox": [
+      -88.965433,
+      37.159276,
+      -88.075153,
+      37.71354
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/high_cascades_ranger_district/high_cascades_ranger_district.geojson",
+    "bbox": [
+      -122.766684,
+      42.243544,
+      -122.166153,
+      43.133172
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/high_sierra_ranger_district/high_sierra_ranger_district.geojson",
+    "bbox": [
+      -119.516767,
+      36.834534,
+      -118.664055,
+      37.544602
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/holly_springs_ranger_district/holly_springs_ranger_district.geojson",
+    "bbox": [
+      -89.891452,
+      33.881809,
+      -88.964126,
+      34.975774
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/holy_cross_ranger_district/holy_cross_ranger_district.geojson",
+    "bbox": [
+      -106.627385,
+      39.312014,
+      -106.177614,
+      39.896415
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/homochitto_ranger_district/homochitto_ranger_district.geojson",
+    "bbox": [
+      -91.354793,
+      31.200605,
+      -90.632745,
+      31.786286
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/hood_canal_ranger_district-hoodsport/hood_canal_ranger_district-hoodsport.geojson",
+    "bbox": [
+      -123.696777,
+      46.950942,
+      -122.958162,
+      47.713058
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/hood_canal_ranger_district-quilcene/hood_canal_ranger_district-quilcene.geojson",
+    "bbox": [
+      -123.254319,
+      47.694468,
+      -122.880958,
+      48.014409
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/hood_river_ranger_district/hood_river_ranger_district.geojson",
+    "bbox": [
+      -121.966354,
+      45.148724,
+      -121.242284,
+      45.67697
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/hoonah_ranger_district/hoonah_ranger_district.geojson",
+    "bbox": [
+      -136.585895,
+      57.781353,
+      -134.914122,
+      58.385874
+    ],
+    "size_mb": 0.44
+  },
+  {
+    "path": "data-out/forests/houston-rolla-cedar_creek_ranger_district/houston-rolla-cedar_creek_ranger_district.geojson",
+    "bbox": [
+      -92.414026,
+      37.320873,
+      -91.754211,
+      38.932957
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/hume_lake_ranger_district/hume_lake_ranger_district.geojson",
+    "bbox": [
+      -119.315868,
+      36.613543,
+      -118.69729,
+      36.898255
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/hungry_horse_ranger_district/hungry_horse_ranger_district.geojson",
+    "bbox": [
+      -114.309273,
+      48.030405,
+      -113.227009,
+      48.507316
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/idaho_city_ranger_district/idaho_city_ranger_district.geojson",
+    "bbox": [
+      -116.100746,
+      43.688298,
+      -115.033676,
+      44.068897
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/ironton_ranger_district/ironton_ranger_district.geojson",
+    "bbox": [
+      -82.795378,
+      38.552836,
+      -82.204381,
+      38.874282
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/iron_river_ranger_district/iron_river_ranger_district.geojson",
+    "bbox": [
+      -88.991092,
+      46.015189,
+      -88.616454,
+      46.362156
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/jackson_ranger_district/jackson_ranger_district.geojson",
+    "bbox": [
+      -111.038727,
+      43.089483,
+      -110.008774,
+      43.755054
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/james_river_ranger_district/james_river_ranger_district.geojson",
+    "bbox": [
+      -80.308594,
+      37.599458,
+      -79.549721,
+      37.970012
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/jemez_ranger_district/jemez_ranger_district.geojson",
+    "bbox": [
+      -106.855717,
+      35.612932,
+      -106.356862,
+      36.008376
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/jessieville_ranger_district/jessieville_ranger_district.geojson",
+    "bbox": [
+      -93.547066,
+      34.568126,
+      -93.05762,
+      34.882662
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/jicarilla_ranger_district/jicarilla_ranger_district.geojson",
+    "bbox": [
+      -107.390907,
+      36.522617,
+      -107.193972,
+      37.000168
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/judith-musselshell_ranger_district/judith-musselshell_ranger_district.geojson",
+    "bbox": [
+      -110.724386,
+      46.43805,
+      -109.009585,
+      47.503248
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/juneau_ranger_district/juneau_ranger_district.geojson",
+    "bbox": [
+      -135.755454,
+      57.200436,
+      -132.372417,
+      59.603829
+    ],
+    "size_mb": 0.34
+  },
+  {
+    "path": "data-out/forests/kawishiwi_ranger_district/kawishiwi_ranger_district.geojson",
+    "bbox": [
+      -92.061893,
+      47.545838,
+      -91.075068,
+      48.237474
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/kemmerer_ranger_district/kemmerer_ranger_district.geojson",
+    "bbox": [
+      -111.04706,
+      41.787074,
+      -110.454616,
+      42.600399
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/kenton_ranger_district/kenton_ranger_district.geojson",
+    "bbox": [
+      -89.125876,
+      46.361761,
+      -87.933905,
+      46.730591
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/kern_river_ranger_district/kern_river_ranger_district.geojson",
+    "bbox": [
+      -118.799075,
+      35.375617,
+      -118.009835,
+      36.221766
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/ketchikan_-_misty_ranger_district/ketchikan_-_misty_ranger_district.geojson",
+    "bbox": [
+      -132.288523,
+      54.718821,
+      -129.993958,
+      56.406004
+    ],
+    "size_mb": 1.04
+  },
+  {
+    "path": "data-out/forests/ketchum_ranger_district/ketchum_ranger_district.geojson",
+    "bbox": [
+      -114.687668,
+      43.485009,
+      -113.813414,
+      43.889767
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/kiamichi_ranger_district/kiamichi_ranger_district.geojson",
+    "bbox": [
+      -95.040605,
+      34.521855,
+      -94.455606,
+      34.795171
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/kiowa-rita_blanca_national_grasslands/kiowa-rita_blanca_national_grasslands.geojson",
+    "bbox": [
+      -104.419922,
+      35.923014,
+      -102.162785,
+      36.698366
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/kisatchie_ranger_district/kisatchie_ranger_district.geojson",
+    "bbox": [
+      -93.236154,
+      31.346805,
+      -92.91331,
+      31.625171
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/klamath_ranger_district/klamath_ranger_district.geojson",
+    "bbox": [
+      -122.287675,
+      42.213546,
+      -122.051351,
+      42.800982
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/krassel_ranger_district/krassel_ranger_district.geojson",
+    "bbox": [
+      -115.96653,
+      44.749065,
+      -114.719946,
+      45.566859
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/lacroix_ranger_district/lacroix_ranger_district.geojson",
+    "bbox": [
+      -93.353133,
+      47.865988,
+      -91.88487,
+      48.64157
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/lakeside_ranger_district/lakeside_ranger_district.geojson",
+    "bbox": [
+      -110.369919,
+      34.098459,
+      -109.69129,
+      34.460331
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/lakeview_ranger_district/lakeview_ranger_district.geojson",
+    "bbox": [
+      -120.968379,
+      41.992903,
+      -120.083657,
+      42.447871
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/lakewood-laona_ranger_district/lakewood-laona_ranger_district.geojson",
+    "bbox": [
+      -89.641024,
+      45.113762,
+      -88.305858,
+      45.767358
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/lake_george_ranger_district/lake_george_ranger_district.geojson",
+    "bbox": [
+      -82.069122,
+      29.153475,
+      -81.524754,
+      29.831246
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/laramie_ranger_district/laramie_ranger_district.geojson",
+    "bbox": [
+      -106.466244,
+      40.997358,
+      -105.290496,
+      41.568293
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/laurentian_ranger_district/laurentian_ranger_district.geojson",
+    "bbox": [
+      -93.038099,
+      46.787939,
+      -91.267565,
+      47.90899
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/la_grande_ranger_district/la_grande_ranger_district.geojson",
+    "bbox": [
+      -118.737321,
+      44.934123,
+      -117.387464,
+      45.514855
+    ],
+    "size_mb": 0.04
+  },
+  {
+    "path": "data-out/forests/leadore_ranger_district/leadore_ranger_district.geojson",
+    "bbox": [
+      -113.880547,
+      44.369538,
+      -113.00554,
+      45.243652
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/leadville_ranger_district/leadville_ranger_district.geojson",
+    "bbox": [
+      -106.599263,
+      38.855434,
+      -106.135855,
+      39.383691
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/lee_ranger_district/lee_ranger_district.geojson",
+    "bbox": [
+      -78.928409,
+      38.406703,
+      -78.286333,
+      39.158588
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/libby_ranger_district/libby_ranger_district.geojson",
+    "bbox": [
+      -115.803569,
+      47.890195,
+      -114.764145,
+      48.721645
+    ],
+    "size_mb": 0.04
+  },
+  {
+    "path": "data-out/forests/lincoln_ranger_district/lincoln_ranger_district.geojson",
+    "bbox": [
+      -112.922309,
+      46.731467,
+      -112.274257,
+      47.238006
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/lochsa-powell_ranger_district/lochsa-powell_ranger_district.geojson",
+    "bbox": [
+      -116.038252,
+      46.114385,
+      -114.32161,
+      46.736522
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/logan_ranger_district/logan_ranger_district.geojson",
+    "bbox": [
+      -112.085878,
+      41.481132,
+      -111.439054,
+      42.000401
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/london_ranger_district/london_ranger_district.geojson",
+    "bbox": [
+      -84.497993,
+      36.750512,
+      -83.707056,
+      37.676802
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/long_cane_ranger_district/long_cane_ranger_district.geojson",
+    "bbox": [
+      -82.550196,
+      33.564772,
+      -81.879662,
+      34.251
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/lookout_mountain_ranger_district/lookout_mountain_ranger_district.geojson",
+    "bbox": [
+      -120.907808,
+      43.987885,
+      -120.179978,
+      44.562793
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/lost_river_ranger_district/lost_river_ranger_district.geojson",
+    "bbox": [
+      -114.416214,
+      43.570546,
+      -112.923775,
+      44.484574
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/los_angeles_gateway_ranger_district/los_angeles_gateway_ranger_district.geojson",
+    "bbox": [
+      -118.8351,
+      34.146833,
+      -117.95098,
+      34.752537
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/lower_trinity_ranger_district/lower_trinity_ranger_district.geojson",
+    "bbox": [
+      -124.095616,
+      40.632594,
+      -123.405847,
+      41.177833
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/lowman_ranger_district/lowman_ranger_district.geojson",
+    "bbox": [
+      -115.7687,
+      43.962368,
+      -115.13929,
+      44.547218
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/madison_ranger_district/madison_ranger_district.geojson",
+    "bbox": [
+      -112.269262,
+      44.535915,
+      -111.369605,
+      45.678636
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/mad_river_ranger_district/mad_river_ranger_district.geojson",
+    "bbox": [
+      -123.65289,
+      40.018102,
+      -123.126541,
+      40.680792
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/magazine_mountain_ranger_district/magazine_mountain_ranger_district.geojson",
+    "bbox": [
+      -93.895606,
+      35.136523,
+      -93.138361,
+      35.302486
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/magdalena_ranger_district/magdalena_ranger_district.geojson",
+    "bbox": [
+      -108.107264,
+      33.432954,
+      -107.062272,
+      34.434413
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/mammoth_ranger_district/mammoth_ranger_district.geojson",
+    "bbox": [
+      -119.216339,
+      37.468278,
+      -118.790106,
+      37.747323
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/manchester_ranger_district/manchester_ranger_district.geojson",
+    "bbox": [
+      -73.289502,
+      42.738744,
+      -72.735644,
+      43.587283
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/mancos-dolores_ranger_district/mancos-dolores_ranger_district.geojson",
+    "bbox": [
+      -108.805093,
+      37.32266,
+      -107.861842,
+      37.89627
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/manistee_ranger_district/manistee_ranger_district.geojson",
+    "bbox": [
+      -86.491981,
+      44.069662,
+      -85.768403,
+      44.396208
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/manistique_ranger_district/manistique_ranger_district.geojson",
+    "bbox": [
+      -86.705993,
+      45.883921,
+      -86.237145,
+      46.245054
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/marienville_ranger_district/marienville_ranger_district.geojson",
+    "bbox": [
+      -79.49372,
+      41.325215,
+      -78.676787,
+      41.755855
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/marlinton_ranger_district/marlinton_ranger_district.geojson",
+    "bbox": [
+      -80.255532,
+      38.057879,
+      -79.789099,
+      38.548691
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/massabesic_experimental_forest/massabesic_experimental_forest.geojson",
+    "bbox": [
+      -70.702283,
+      43.420549,
+      -70.601306,
+      43.581073
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/mccall_ranger_district/mccall_ranger_district.geojson",
+    "bbox": [
+      -116.167336,
+      44.703968,
+      -115.376877,
+      45.467777
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/mccloud_ranger_district/mccloud_ranger_district.geojson",
+    "bbox": [
+      -122.276502,
+      41.045649,
+      -121.5241,
+      41.583202
+    ],
+    "size_mb": 0.04
+  },
+  {
+    "path": "data-out/forests/mckenzie_ranger_district/mckenzie_ranger_district.geojson",
+    "bbox": [
+      -104.045297,
+      47.328566,
+      -102.644005,
+      48.129848
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/mckenzie_river_ranger_district/mckenzie_river_ranger_district.geojson",
+    "bbox": [
+      -122.526206,
+      43.855333,
+      -121.76801,
+      44.443843
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/medford-park_falls_ranger_district/medford-park_falls_ranger_district.geojson",
+    "bbox": [
+      -90.741044,
+      45.118588,
+      -89.981476,
+      45.982124
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/medicine_wheel_ranger_district/medicine_wheel_ranger_district.geojson",
+    "bbox": [
+      -108.059926,
+      44.27855,
+      -107.173946,
+      45.001341
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/medora_ranger_district/medora_ranger_district.geojson",
+    "bbox": [
+      -104.045559,
+      46.280027,
+      -103.051245,
+      47.329281
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/mena_ranger_district/mena_ranger_district.geojson",
+    "bbox": [
+      -94.460022,
+      34.336927,
+      -93.945179,
+      34.792237
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/mesa_ranger_district/mesa_ranger_district.geojson",
+    "bbox": [
+      -111.683886,
+      33.267073,
+      -111.113255,
+      34.006358
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/methow_valley_ranger_district/methow_valley_ranger_district.geojson",
+    "bbox": [
+      -121.01949,
+      48.007591,
+      -119.820331,
+      49.00012
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/mi-wok_ranger_district/mi-wok_ranger_district.geojson",
+    "bbox": [
+      -120.396737,
+      37.856322,
+      -119.837182,
+      38.188275
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/middlebury_ranger_district/middlebury_ranger_district.geojson",
+    "bbox": [
+      -73.105025,
+      43.610545,
+      -72.820833,
+      44.163417
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/middle_fork_ranger_district/middle_fork_ranger_district.geojson",
+    "bbox": [
+      -122.745186,
+      43.355989,
+      -114.373106,
+      45.087415
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/minidoka_ranger_district/minidoka_ranger_district.geojson",
+    "bbox": [
+      -114.477019,
+      41.829963,
+      -112.887052,
+      42.501818
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/mio_ranger_district/mio_ranger_district.geojson",
+    "bbox": [
+      -84.610248,
+      44.464698,
+      -84.00649,
+      44.681633
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/mississippi_bluffs_ranger_district/mississippi_bluffs_ranger_district.geojson",
+    "bbox": [
+      -89.671718,
+      37.114666,
+      -88.946786,
+      37.874207
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/missoula_ranger_district/missoula_ranger_district.geojson",
+    "bbox": [
+      -114.663524,
+      46.30631,
+      -113.399455,
+      47.106319
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/moab_ranger_district/moab_ranger_district.geojson",
+    "bbox": [
+      -109.549786,
+      38.302693,
+      -108.924168,
+      38.666424
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/mogollon_rim_ranger_district/mogollon_rim_ranger_district.geojson",
+    "bbox": [
+      -111.5607,
+      34.375271,
+      -110.960973,
+      34.891303
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/mono_lake_ranger_district/mono_lake_ranger_district.geojson",
+    "bbox": [
+      -119.323627,
+      37.681067,
+      -118.302723,
+      38.144461
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/monterey_ranger_district/monterey_ranger_district.geojson",
+    "bbox": [
+      -121.907424,
+      35.762539,
+      -121.183839,
+      36.403758
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/monticello_ranger_district/monticello_ranger_district.geojson",
+    "bbox": [
+      -110.025002,
+      37.577479,
+      -109.355175,
+      37.974437
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/montpelier_ranger_district/montpelier_ranger_district.geojson",
+    "bbox": [
+      -111.721073,
+      41.999256,
+      -111.045279,
+      42.672511
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/moose_creek_ranger_district/moose_creek_ranger_district.geojson",
+    "bbox": [
+      -115.850102,
+      45.869314,
+      -114.445339,
+      46.374526
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/mountainair_ranger_district/mountainair_ranger_district.geojson",
+    "bbox": [
+      -106.513713,
+      34.11433,
+      -105.594236,
+      34.883996
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/mountaintop_ranger_district/mountaintop_ranger_district.geojson",
+    "bbox": [
+      -117.408772,
+      34.117191,
+      -116.647615,
+      34.366403
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/mountain_city-ruby_mountains-jarbidge_ranger_district/mountain_city-ruby_mountains-jarbidge_ranger_district.geojson",
+    "bbox": [
+      -116.166175,
+      40.018401,
+      -114.96698,
+      41.997518
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/mountain_home_ranger_district/mountain_home_ranger_district.geojson",
+    "bbox": [
+      -116.19397,
+      43.212829,
+      -115.126133,
+      43.80733
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/mount_rogers_national_recreation_area/mount_rogers_national_recreation_area.geojson",
+    "bbox": [
+      -82.116962,
+      36.587126,
+      -80.915293,
+      37.077848
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/mount_st._helens_national_volcanic_monument/mount_st._helens_national_volcanic_monument.geojson",
+    "bbox": [
+      -122.385671,
+      45.728408,
+      -121.603977,
+      46.443674
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/mount_taylor_ranger_district/mount_taylor_ranger_district.geojson",
+    "bbox": [
+      -108.635651,
+      34.958355,
+      -107.218118,
+      35.525998
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/mt._adams_ranger_district/mt._adams_ranger_district.geojson",
+    "bbox": [
+      -122.259697,
+      45.585641,
+      -121.199176,
+      46.311304
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/mt._baker_ranger_district/mt._baker_ranger_district.geojson",
+    "bbox": [
+      -122.193801,
+      48.311159,
+      -121.0411,
+      49.000308
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/mt._hough_ranger_district/mt._hough_ranger_district.geojson",
+    "bbox": [
+      -121.374099,
+      39.802931,
+      -120.548969,
+      40.319631
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/mt._pinos_ranger_district/mt._pinos_ranger_district.geojson",
+    "bbox": [
+      -119.814149,
+      34.597183,
+      -118.751817,
+      34.948742
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/mt._shasta_ranger_district/mt._shasta_ranger_district.geojson",
+    "bbox": [
+      -122.677608,
+      40.889634,
+      -122.098388,
+      41.559122
+    ],
+    "size_mb": 0.03
+  },
+  {
+    "path": "data-out/forests/mt._whitney_ranger_district/mt._whitney_ranger_district.geojson",
+    "bbox": [
+      -118.406087,
+      36.040602,
+      -117.96526,
+      37.235952
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/munising_ranger_district/munising_ranger_district.geojson",
+    "bbox": [
+      -87.220915,
+      46.158433,
+      -86.365224,
+      46.560069
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/mystic_ranger_district/mystic_ranger_district.geojson",
+    "bbox": [
+      -103.940203,
+      43.796108,
+      -103.252219,
+      44.206531
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/naches_ranger_district/naches_ranger_district.geojson",
+    "bbox": [
+      -121.522616,
+      46.454974,
+      -120.885357,
+      47.14174
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/nantahala_ranger_district/nantahala_ranger_district.geojson",
+    "bbox": [
+      -83.738129,
+      35.000094,
+      -82.92081,
+      35.464197
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/newport_ranger_district/newport_ranger_district.geojson",
+    "bbox": [
+      -117.59409,
+      48.13648,
+      -117.037103,
+      48.61438
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/new_meadows_ranger_district/new_meadows_ranger_district.geojson",
+    "bbox": [
+      -116.574654,
+      44.840047,
+      -116.041519,
+      45.370234
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/ninemile_ranger_district/ninemile_ranger_district.geojson",
+    "bbox": [
+      -114.964592,
+      46.696885,
+      -114.120177,
+      47.274465
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/nogales_ranger_district/nogales_ranger_district.geojson",
+    "bbox": [
+      -111.450923,
+      31.332342,
+      -110.672407,
+      31.919504
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/northern_hills_ranger_district/northern_hills_ranger_district.geojson",
+    "bbox": [
+      -104.055892,
+      44.083989,
+      -103.372475,
+      44.504891
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/north_fork_john_day_ranger_district/north_fork_john_day_ranger_district.geojson",
+    "bbox": [
+      -119.268108,
+      44.705812,
+      -118.391942,
+      45.352205
+    ],
+    "size_mb": 0.04
+  },
+  {
+    "path": "data-out/forests/north_fork_ranger_district/north_fork_ranger_district.geojson",
+    "bbox": [
+      -116.504758,
+      44.885334,
+      -113.679244,
+      47.014375
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/north_kaibab_ranger_district/north_kaibab_ranger_district.geojson",
+    "bbox": [
+      -112.670865,
+      36.2997,
+      -111.849145,
+      36.942296
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/north_river_ranger_district/north_river_ranger_district.geojson",
+    "bbox": [
+      -79.669272,
+      37.952601,
+      -78.880372,
+      38.850203
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/north_umpqua_ranger_district/north_umpqua_ranger_district.geojson",
+    "bbox": [
+      -123.758865,
+      43.088068,
+      -122.449405,
+      43.597733
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/norwood_ranger_district/norwood_ranger_district.geojson",
+    "bbox": [
+      -108.766922,
+      37.773568,
+      -107.732797,
+      38.479852
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/oakmulgee_ranger_district/oakmulgee_ranger_district.geojson",
+    "bbox": [
+      -87.523582,
+      32.574896,
+      -86.914972,
+      33.04798
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/oak_knoll_ranger_district/oak_knoll_ranger_district.geojson",
+    "bbox": [
+      -123.313721,
+      41.685995,
+      -122.535348,
+      42.08636
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/ocoee_ranger_district/ocoee_ranger_district.geojson",
+    "bbox": [
+      -84.737013,
+      34.987886,
+      -84.292367,
+      35.35587
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/oconee_ranger_district/oconee_ranger_district.geojson",
+    "bbox": [
+      -83.884804,
+      33.013955,
+      -83.119741,
+      33.805482
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/oden_ranger_district/oden_ranger_district.geojson",
+    "bbox": [
+      -93.960218,
+      34.550677,
+      -93.485399,
+      34.861611
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/ogden_ranger_district/ogden_ranger_district.geojson",
+    "bbox": [
+      -112.025476,
+      41.132728,
+      -111.192553,
+      41.728803
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/ojai_ranger_district/ojai_ranger_district.geojson",
+    "bbox": [
+      -119.471865,
+      34.391738,
+      -118.712394,
+      34.654607
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/ontonagon_ranger_district/ontonagon_ranger_district.geojson",
+    "bbox": [
+      -89.364678,
+      46.592668,
+      -88.615399,
+      46.858621
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/orleans_ranger_district/orleans_ranger_district.geojson",
+    "bbox": [
+      -123.872281,
+      41.089622,
+      -123.408046,
+      41.595237
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/osceola_ranger_district/osceola_ranger_district.geojson",
+    "bbox": [
+      -83.131722,
+      30.180007,
+      -82.246402,
+      30.596508
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/ouray_ranger_district/ouray_ranger_district.geojson",
+    "bbox": [
+      -108.564483,
+      37.891825,
+      -107.398522,
+      38.612446
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/pacific_ranger_district/pacific_ranger_district.geojson",
+    "bbox": [
+      -120.590225,
+      38.762649,
+      -120.105108,
+      39.085992
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/pacific_ranger_district-forks/pacific_ranger_district-forks.geojson",
+    "bbox": [
+      -124.352471,
+      47.802089,
+      -123.428923,
+      48.1654
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/pacific_ranger_district-quinault/pacific_ranger_district-quinault.geojson",
+    "bbox": [
+      -124.212053,
+      47.267145,
+      -123.614664,
+      47.64951
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/pagosa_ranger_district/pagosa_ranger_district.geojson",
+    "bbox": [
+      -107.414911,
+      37.047635,
+      -106.62162,
+      37.637076
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/paisley_ranger_district/paisley_ranger_district.geojson",
+    "bbox": [
+      -121.114726,
+      42.34896,
+      -120.429481,
+      43.012968
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/palisades_ranger_district/palisades_ranger_district.geojson",
+    "bbox": [
+      -111.960601,
+      43.055743,
+      -110.920715,
+      43.712937
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/palomar_ranger_district/palomar_ranger_district.geojson",
+    "bbox": [
+      -117.052493,
+      32.911741,
+      -116.559538,
+      33.46867
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/palouse_ranger_district/palouse_ranger_district.geojson",
+    "bbox": [
+      -117.001618,
+      46.585012,
+      -115.90884,
+      47.135361
+    ],
+    "size_mb": 0.03
+  },
+  {
+    "path": "data-out/forests/paonia_ranger_district/paonia_ranger_district.geojson",
+    "bbox": [
+      -107.722335,
+      38.474883,
+      -107.091719,
+      39.257566
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/parks_ranger_district/parks_ranger_district.geojson",
+    "bbox": [
+      -106.870781,
+      40.129965,
+      -105.851568,
+      41.002634
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/paulina_ranger_district/paulina_ranger_district.geojson",
+    "bbox": [
+      -120.386422,
+      44.104059,
+      -119.537078,
+      44.507191
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/pawnee_ranger_district/pawnee_ranger_district.geojson",
+    "bbox": [
+      -104.791277,
+      40.609544,
+      -103.573677,
+      41.001617
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/payson_ranger_district/payson_ranger_district.geojson",
+    "bbox": [
+      -111.681607,
+      34.059246,
+      -110.883651,
+      34.451356
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/pecos-las_vegas_ranger_district/pecos-las_vegas_ranger_district.geojson",
+    "bbox": [
+      -105.87644,
+      35.230684,
+      -105.161276,
+      36.054371
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/pemigewasset_ranger_district/pemigewasset_ranger_district.geojson",
+    "bbox": [
+      -72.280588,
+      43.696996,
+      -71.298642,
+      44.350196
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/petersburg_ranger_district/petersburg_ranger_district.geojson",
+    "bbox": [
+      -134.422536,
+      56.001113,
+      -132.248016,
+      57.434636
+    ],
+    "size_mb": 1.04
+  },
+  {
+    "path": "data-out/forests/pikes_peak_ranger_district/pikes_peak_ranger_district.geojson",
+    "bbox": [
+      -105.283562,
+      38.694116,
+      -104.819477,
+      39.222034
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/pinedale_ranger_district/pinedale_ranger_district.geojson",
+    "bbox": [
+      -110.264906,
+      42.491351,
+      -108.880875,
+      43.563782
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/pine_ridge_ranger_district/pine_ridge_ranger_district.geojson",
+    "bbox": [
+      -104.053134,
+      42.524139,
+      -102.890463,
+      43.00074
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/pine_valley_ranger_district/pine_valley_ranger_district.geojson",
+    "bbox": [
+      -114.051869,
+      37.216484,
+      -113.272086,
+      37.677324
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/pintler_ranger_district/pintler_ranger_district.geojson",
+    "bbox": [
+      -113.823916,
+      45.938576,
+      -112.491104,
+      46.6876
+    ],
+    "size_mb": 0.03
+  },
+  {
+    "path": "data-out/forests/pisgah_ranger_district/pisgah_ranger_district.geojson",
+    "bbox": [
+      -83.056967,
+      35.027558,
+      -82.576404,
+      35.541717
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/placerville_ranger_district/placerville_ranger_district.geojson",
+    "bbox": [
+      -120.745648,
+      38.577265,
+      -120.029306,
+      38.845275
+    ],
+    "size_mb": 0.03
+  },
+  {
+    "path": "data-out/forests/plains-thompson_falls_ranger_district/plains-thompson_falls_ranger_district.geojson",
+    "bbox": [
+      -115.755701,
+      47.254241,
+      -114.686519,
+      48.008504
+    ],
+    "size_mb": 0.04
+  },
+  {
+    "path": "data-out/forests/pleasant_grove_ranger_district/pleasant_grove_ranger_district.geojson",
+    "bbox": [
+      -111.793636,
+      40.159438,
+      -111.437775,
+      40.593774
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/pleasant_hill_ranger_district/pleasant_hill_ranger_district.geojson",
+    "bbox": [
+      -93.83711,
+      35.504195,
+      -93.290042,
+      35.865089
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/pleasant_valley_ranger_district/pleasant_valley_ranger_district.geojson",
+    "bbox": [
+      -111.258996,
+      33.728139,
+      -110.779643,
+      34.309074
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/pomeroy_ranger_district/pomeroy_ranger_district.geojson",
+    "bbox": [
+      -117.955067,
+      45.862276,
+      -117.250609,
+      46.475552
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/poplar_bluff_ranger_district/poplar_bluff_ranger_district.geojson",
+    "bbox": [
+      -90.788992,
+      36.762067,
+      -90.244529,
+      37.136477
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/poteau_ranger_district/poteau_ranger_district.geojson",
+    "bbox": [
+      -94.453288,
+      34.664001,
+      -93.913925,
+      35.014985
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/potomac_ranger_district/potomac_ranger_district.geojson",
+    "bbox": [
+      -79.655678,
+      38.563557,
+      -79.119637,
+      39.072398
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/potosi_-_fredericktown_ranger_district/potosi_-_fredericktown_ranger_district.geojson",
+    "bbox": [
+      -91.303157,
+      37.398729,
+      -90.09193,
+      38.0113
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/powder_river_ranger_district/powder_river_ranger_district.geojson",
+    "bbox": [
+      -107.38546,
+      44.019972,
+      -106.715769,
+      44.492133
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/powell_ranger_district/powell_ranger_district.geojson",
+    "bbox": [
+      -112.433157,
+      37.397746,
+      -112.021363,
+      38.163972
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/powers_ranger_district/powers_ranger_district.geojson",
+    "bbox": [
+      -124.416305,
+      42.662471,
+      -123.830919,
+      42.898356
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/prairie_city_ranger_district/prairie_city_ranger_district.geojson",
+    "bbox": [
+      -118.810628,
+      43.996549,
+      -118.188212,
+      44.578698
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/price_ranger_district/price_ranger_district.geojson",
+    "bbox": [
+      -111.537847,
+      39.325057,
+      -110.794768,
+      39.981142
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/priest_lake_ranger_district/priest_lake_ranger_district.geojson",
+    "bbox": [
+      -117.190598,
+      48.216737,
+      -116.726908,
+      48.999196
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/quemado_ranger_district/quemado_ranger_district.geojson",
+    "bbox": [
+      -109.046844,
+      33.688884,
+      -108.227907,
+      34.344527
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/questa_ranger_district/questa_ranger_district.geojson",
+    "bbox": [
+      -105.695084,
+      36.53026,
+      -105.012295,
+      36.875259
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/rapid_river_ranger_district/rapid_river_ranger_district.geojson",
+    "bbox": [
+      -87.06374,
+      45.667422,
+      -86.592807,
+      46.158733
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/redbird_ranger_district/redbird_ranger_district.geojson",
+    "bbox": [
+      -83.93478,
+      36.883323,
+      -83.122621,
+      37.466972
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/red_river_ranger_district/red_river_ranger_district.geojson",
+    "bbox": [
+      -115.85975,
+      45.375612,
+      -114.890156,
+      46.010487
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/red_rock_ranger_district/red_rock_ranger_district.geojson",
+    "bbox": [
+      -112.078428,
+      34.305888,
+      -111.501744,
+      35.031004
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/republic_ranger_district/republic_ranger_district.geojson",
+    "bbox": [
+      -118.86988,
+      48.481593,
+      -118.369388,
+      48.99991
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/reserve_ranger_district/reserve_ranger_district.geojson",
+    "bbox": [
+      -108.965575,
+      33.372966,
+      -108.230288,
+      33.926793
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/rexford_ranger_district/rexford_ranger_district.geojson",
+    "bbox": [
+      -115.580174,
+      48.557835,
+      -115.041844,
+      49.000225
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/richfield_ranger_district/richfield_ranger_district.geojson",
+    "bbox": [
+      -112.144223,
+      38.247707,
+      -111.372286,
+      39.046848
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/rifle_ranger_district/rifle_ranger_district.geojson",
+    "bbox": [
+      -108.15819,
+      39.204183,
+      -107.236336,
+      39.856443
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/rochester_ranger_district/rochester_ranger_district.geojson",
+    "bbox": [
+      -72.981376,
+      43.654131,
+      -71.674752,
+      44.575131
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/rocky_mountain_ranger_district/rocky_mountain_ranger_district.geojson",
+    "bbox": [
+      -113.356724,
+      47.162894,
+      -112.196699,
+      48.412846
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/roosevelt_ranger_district/roosevelt_ranger_district.geojson",
+    "bbox": [
+      -110.656524,
+      40.399013,
+      -109.93457,
+      40.824973
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/sabine_ranger_district/sabine_ranger_district.geojson",
+    "bbox": [
+      -94.103194,
+      31.147112,
+      -93.596546,
+      31.933545
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/saco_ranger_district/saco_ranger_district.geojson",
+    "bbox": [
+      -71.511181,
+      43.827002,
+      -70.84964,
+      44.328037
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/sacramento_ranger_district/sacramento_ranger_district.geojson",
+    "bbox": [
+      -105.928503,
+      32.603824,
+      -105.303518,
+      33.134947
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/safford_ranger_district/safford_ranger_district.geojson",
+    "bbox": [
+      -110.448593,
+      32.295967,
+      -109.69962,
+      33.006489
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/saguache_ranger_district/saguache_ranger_district.geojson",
+    "bbox": [
+      -106.870854,
+      37.852778,
+      -105.540396,
+      38.456921
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/salem_ranger_district/salem_ranger_district.geojson",
+    "bbox": [
+      -91.536802,
+      37.327195,
+      -90.935391,
+      37.84652
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/salida_ranger_district/salida_ranger_district.geojson",
+    "bbox": [
+      -106.451913,
+      38.230129,
+      -105.70731,
+      38.991308
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/salmon-cobalt_ranger_district/salmon-cobalt_ranger_district.geojson",
+    "bbox": [
+      -114.658859,
+      44.73286,
+      -113.79774,
+      45.404605
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/salmon_river_ranger_district/salmon_river_ranger_district.geojson",
+    "bbox": [
+      -123.463138,
+      40.993923,
+      -115.704142,
+      45.990138
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/salt_lake_ranger_district/salt_lake_ranger_district.geojson",
+    "bbox": [
+      -112.687,
+      40.33933,
+      -111.56068,
+      41.140555
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/sam_houston_ranger_district/sam_houston_ranger_district.geojson",
+    "bbox": [
+      -95.811751,
+      30.308338,
+      -95.001135,
+      30.753663
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/sandia_ranger_district/sandia_ranger_district.geojson",
+    "bbox": [
+      -106.515709,
+      34.947467,
+      -106.278585,
+      35.304627
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/sandpoint_ranger_district/sandpoint_ranger_district.geojson",
+    "bbox": [
+      -117.041095,
+      47.895166,
+      -115.9894,
+      48.691872
+    ],
+    "size_mb": 0.04
+  },
+  {
+    "path": "data-out/forests/sanpete_ranger_district/sanpete_ranger_district.geojson",
+    "bbox": [
+      -111.884596,
+      39.031807,
+      -111.29776,
+      39.868356
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/santa_barbara_ranger_district/santa_barbara_ranger_district.geojson",
+    "bbox": [
+      -120.217714,
+      34.398874,
+      -119.421646,
+      34.725242
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/santa_catalina_ranger_district/santa_catalina_ranger_district.geojson",
+    "bbox": [
+      -111.01183,
+      32.049642,
+      -110.415003,
+      32.601489
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/santa_lucia_ranger_district/santa_lucia_ranger_district.geojson",
+    "bbox": [
+      -120.80222,
+      34.692858,
+      -119.618356,
+      35.48531
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/santa_rosa_ranger_district/santa_rosa_ranger_district.geojson",
+    "bbox": [
+      -117.753757,
+      41.381864,
+      -117.296642,
+      41.999301
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/san_carlos_ranger_district/san_carlos_ranger_district.geojson",
+    "bbox": [
+      -105.756494,
+      37.218403,
+      -104.616273,
+      38.418426
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/san_gabriel_mountains_national_monument_ranger_district/san_gabriel_mountains_national_monument_ranger_district.geojson",
+    "bbox": [
+      -118.398996,
+      34.103795,
+      -117.586313,
+      34.499386
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/san_jacinto_ranger_district/san_jacinto_ranger_district.geojson",
+    "bbox": [
+      -116.860006,
+      33.499405,
+      -116.318932,
+      33.8861
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/sault_ste._marie_ranger_district/sault_ste._marie_ranger_district.geojson",
+    "bbox": [
+      -85.114105,
+      46.157785,
+      -84.614073,
+      46.505912
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/sawtooth_national_recreation_area/sawtooth_national_recreation_area.geojson",
+    "bbox": [
+      -115.257706,
+      43.742455,
+      -114.344569,
+      44.347313
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/scott_river_ranger_district/scott_river_ranger_district.geojson",
+    "bbox": [
+      -123.278412,
+      41.178753,
+      -122.565839,
+      41.782583
+    ],
+    "size_mb": 0.03
+  },
+  {
+    "path": "data-out/forests/seeley_lake_ranger_district/seeley_lake_ranger_district.geojson",
+    "bbox": [
+      -113.75179,
+      46.975151,
+      -112.724425,
+      47.425457
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/seminole_ranger_district/seminole_ranger_district.geojson",
+    "bbox": [
+      -81.992897,
+      28.627003,
+      -81.090692,
+      29.214745
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/seward_ranger_district/seward_ranger_district.geojson",
+    "bbox": [
+      -150.007919,
+      60.111891,
+      -148.854024,
+      60.961959
+    ],
+    "size_mb": 0.05
+  },
+  {
+    "path": "data-out/forests/shasta_lake_ranger_district/shasta_lake_ranger_district.geojson",
+    "bbox": [
+      -122.56001,
+      40.707978,
+      -121.74634,
+      41.177761
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/sheyenne_ranger_district/sheyenne_ranger_district.geojson",
+    "bbox": [
+      -100.647697,
+      46.088068,
+      -96.928142,
+      48.385824
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/shoal_creek_ranger_district/shoal_creek_ranger_district.geojson",
+    "bbox": [
+      -85.800827,
+      33.410886,
+      -85.375029,
+      33.97805
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/sierraville_ranger_district/sierraville_ranger_district.geojson",
+    "bbox": [
+      -120.623966,
+      39.358191,
+      -120.06691,
+      39.795771
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/sierra_vista_ranger_district/sierra_vista_ranger_district.geojson",
+    "bbox": [
+      -110.825457,
+      31.332948,
+      -110.224033,
+      31.919572
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/silver_city_ranger_district/silver_city_ranger_district.geojson",
+    "bbox": [
+      -108.647048,
+      32.3995,
+      -107.721862,
+      33.089302
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/silver_lake_ranger_district/silver_lake_ranger_district.geojson",
+    "bbox": [
+      -121.469104,
+      42.79538,
+      -120.798984,
+      43.458161
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/sioux_ranger_district/sioux_ranger_district.geojson",
+    "bbox": [
+      -104.734755,
+      45.307146,
+      -103.008925,
+      45.924212
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/siskiyou_mountains_ranger_district/siskiyou_mountains_ranger_district.geojson",
+    "bbox": [
+      -123.363983,
+      41.919471,
+      -122.640048,
+      42.35472
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/sisters_ranger_district/sisters_ranger_district.geojson",
+    "bbox": [
+      -121.848843,
+      44.076257,
+      -121.412185,
+      44.67504
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/sitka_ranger_district/sitka_ranger_district.geojson",
+    "bbox": [
+      -136.424207,
+      56.15961,
+      -134.615826,
+      58.025714
+    ],
+    "size_mb": 2.16
+  },
+  {
+    "path": "data-out/forests/skykomish_ranger_district/skykomish_ranger_district.geojson",
+    "bbox": [
+      -121.840061,
+      47.53808,
+      -121.065951,
+      48.059744
+    ],
+    "size_mb": 0.03
+  },
+  {
+    "path": "data-out/forests/smokey_bear_ranger_district/smokey_bear_ranger_district.geojson",
+    "bbox": [
+      -105.889029,
+      33.304822,
+      -105.193555,
+      33.95443
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/snoqualmie_ranger_district/snoqualmie_ranger_district.geojson",
+    "bbox": [
+      -121.982042,
+      46.820499,
+      -121.232106,
+      47.777326
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/soda_springs_ranger_district/soda_springs_ranger_district.geojson",
+    "bbox": [
+      -111.595179,
+      42.552967,
+      -110.99274,
+      43.226559
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/sopris_ranger_district/sopris_ranger_district.geojson",
+    "bbox": [
+      -107.465257,
+      38.985726,
+      -106.481058,
+      39.57182
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/south_park_ranger_district/south_park_ranger_district.geojson",
+    "bbox": [
+      -106.210213,
+      38.701545,
+      -105.207277,
+      39.494256
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/south_platte_ranger_district/south_platte_ranger_district.geojson",
+    "bbox": [
+      -105.868201,
+      39.084579,
+      -104.988029,
+      39.617238
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/spanish_fork_ranger_district/spanish_fork_ranger_district.geojson",
+    "bbox": [
+      -112.628456,
+      39.719389,
+      -110.95959,
+      40.300678
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/spotted_bear_ranger_district/spotted_bear_ranger_district.geojson",
+    "bbox": [
+      -113.886662,
+      47.228023,
+      -112.87868,
+      48.175714
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/springerville_ranger_district/springerville_ranger_district.geojson",
+    "bbox": [
+      -109.692714,
+      33.792578,
+      -109.046818,
+      34.228474
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/spring_mountains_national_recreation_area/spring_mountains_national_recreation_area.geojson",
+    "bbox": [
+      -116.014692,
+      35.911142,
+      -115.431528,
+      36.509017
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/st._francis_ranger_district/st._francis_ranger_district.geojson",
+    "bbox": [
+      -90.756076,
+      34.569004,
+      -90.58083,
+      34.774157
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/st._ignace_ranger_district/st._ignace_ranger_district.geojson",
+    "bbox": [
+      -84.9887,
+      45.535106,
+      -84.082609,
+      46.158356
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/st._joe_ranger_district/st._joe_ranger_district.geojson",
+    "bbox": [
+      -116.741647,
+      46.847641,
+      -115.069421,
+      47.434381
+    ],
+    "size_mb": 0.05
+  },
+  {
+    "path": "data-out/forests/stearns_ranger_district/stearns_ranger_district.geojson",
+    "bbox": [
+      -84.880142,
+      36.591312,
+      -84.110793,
+      36.990954
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/stevensville_ranger_district/stevensville_ranger_district.geojson",
+    "bbox": [
+      -114.467766,
+      46.240353,
+      -113.771815,
+      46.707776
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/sula_ranger_district/sula_ranger_district.geojson",
+    "bbox": [
+      -114.169389,
+      45.689859,
+      -113.51725,
+      46.048758
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/sullivan_lake_ranger_district/sullivan_lake_ranger_district.geojson",
+    "bbox": [
+      -117.574137,
+      48.51318,
+      -117.032342,
+      48.999909
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/sulphur_ranger_district/sulphur_ranger_district.geojson",
+    "bbox": [
+      -106.294704,
+      39.688706,
+      -105.629682,
+      40.400327
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/summit_ranger_district/summit_ranger_district.geojson",
+    "bbox": [
+      -120.17149,
+      38.0878,
+      -119.596427,
+      38.474223
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/superior_ranger_district/superior_ranger_district.geojson",
+    "bbox": [
+      -115.759526,
+      46.937919,
+      -114.618131,
+      47.496655
+    ],
+    "size_mb": 0.03
+  },
+  {
+    "path": "data-out/forests/swan_lake_ranger_district/swan_lake_ranger_district.geojson",
+    "bbox": [
+      -114.72284,
+      47.271487,
+      -113.501717,
+      48.258854
+    ],
+    "size_mb": 0.04
+  },
+  {
+    "path": "data-out/forests/sweet_home_ranger_district/sweet_home_ranger_district.geojson",
+    "bbox": [
+      -122.688457,
+      44.209436,
+      -121.938804,
+      44.660943
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/sylamore_ranger_district/sylamore_ranger_district.geojson",
+    "bbox": [
+      -92.462491,
+      35.861807,
+      -92.056734,
+      36.230388
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/talladega_ranger_district/talladega_ranger_district.geojson",
+    "bbox": [
+      -86.2419,
+      33.120359,
+      -85.767446,
+      33.569023
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/tally_lake_ranger_district/tally_lake_ranger_district.geojson",
+    "bbox": [
+      -114.922933,
+      48.099327,
+      -114.262675,
+      48.785586
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/tawas_ranger_district/tawas_ranger_district.geojson",
+    "bbox": [
+      -84.007435,
+      44.281614,
+      -83.325802,
+      44.509023
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/tellico_ranger_district/tellico_ranger_district.geojson",
+    "bbox": [
+      -84.432212,
+      35.206653,
+      -83.939507,
+      35.568753
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/tell_city_ranger_district/tell_city_ranger_district.geojson",
+    "bbox": [
+      -86.760571,
+      37.875056,
+      -86.308261,
+      38.542873
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/teton_basin_ranger_district/teton_basin_ranger_district.geojson",
+    "bbox": [
+      -111.680249,
+      43.477261,
+      -110.824707,
+      43.984318
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/thorne_bay_ranger_district/thorne_bay_ranger_district.geojson",
+    "bbox": [
+      -134.367651,
+      55.436542,
+      -132.109441,
+      56.35667
+    ],
+    "size_mb": 1.64
+  },
+  {
+    "path": "data-out/forests/three_rivers_ranger_district/three_rivers_ranger_district.geojson",
+    "bbox": [
+      -118.502874,
+      48.149007,
+      -115.357799,
+      49.000938
+    ],
+    "size_mb": 0.03
+  },
+  {
+    "path": "data-out/forests/tiak_ranger_district/tiak_ranger_district.geojson",
+    "bbox": [
+      -94.959411,
+      33.706937,
+      -94.47731,
+      34.461717
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/tiller_ranger_district/tiller_ranger_district.geojson",
+    "bbox": [
+      -123.091269,
+      42.737705,
+      -122.418413,
+      43.197601
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/tofte_ranger_district/tofte_ranger_district.geojson",
+    "bbox": [
+      -91.555137,
+      47.503557,
+      -90.555621,
+      48.049436
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/tombigbee_ranger_district/tombigbee_ranger_district.geojson",
+    "bbox": [
+      -89.178451,
+      33.153447,
+      -88.842113,
+      34.089267
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/tonasket_ranger_district/tonasket_ranger_district.geojson",
+    "bbox": [
+      -120.057337,
+      48.434178,
+      -118.83665,
+      49.00013
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/tongue_ranger_district/tongue_ranger_district.geojson",
+    "bbox": [
+      -107.747124,
+      44.380572,
+      -106.920734,
+      44.979584
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/tonto_basin_ranger_district/tonto_basin_ranger_district.geojson",
+    "bbox": [
+      -111.500525,
+      33.474472,
+      -110.743468,
+      34.109928
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/townsend_ranger_district/townsend_ranger_district.geojson",
+    "bbox": [
+      -111.878135,
+      46.121756,
+      -111.03248,
+      46.910222
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/trabuco_ranger_district/trabuco_ranger_district.geojson",
+    "bbox": [
+      -117.673348,
+      33.445239,
+      -117.295742,
+      33.876225
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/tres_piedras_ranger_district/tres_piedras_ranger_district.geojson",
+    "bbox": [
+      -106.477116,
+      36.233869,
+      -105.765463,
+      36.994822
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/truckee_ranger_district/truckee_ranger_district.geojson",
+    "bbox": [
+      -120.457549,
+      39.02711,
+      -120.005507,
+      39.530361
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/tusayan_ranger_district/tusayan_ranger_district.geojson",
+    "bbox": [
+      -112.405436,
+      35.744703,
+      -111.693205,
+      36.13173
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/tuskegee_ranger_district/tuskegee_ranger_district.geojson",
+    "bbox": [
+      -85.682489,
+      32.409662,
+      -85.541236,
+      32.510728
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/tusquittee_ranger_district/tusquittee_ranger_district.geojson",
+    "bbox": [
+      -84.312307,
+      34.986715,
+      -83.48293,
+      35.292252
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/ukonom_ranger_district/ukonom_ranger_district.geojson",
+    "bbox": [
+      -123.719141,
+      41.285562,
+      -123.261847,
+      41.6337
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/unaka_ranger_district/unaka_ranger_district.geojson",
+    "bbox": [
+      -83.248852,
+      35.770739,
+      -82.222074,
+      36.30213
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/upper_lake_ranger_district/upper_lake_ranger_district.geojson",
+    "bbox": [
+      -123.181605,
+      39.070595,
+      -122.593095,
+      39.620576
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/uwharrie_ranger_district/uwharrie_ranger_district.geojson",
+    "bbox": [
+      -80.18299,
+      35.196109,
+      -79.732495,
+      35.651485
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/verde_ranger_district/verde_ranger_district.geojson",
+    "bbox": [
+      -112.202634,
+      34.248134,
+      -111.743823,
+      34.810745
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/vernal_ranger_district/vernal_ranger_district.geojson",
+    "bbox": [
+      -110.140167,
+      40.449446,
+      -109.287501,
+      40.856159
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/wakulla_ranger_district/wakulla_ranger_district.geojson",
+    "bbox": [
+      -84.737779,
+      29.981044,
+      -84.251325,
+      30.443944
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/walker_ranger_district/walker_ranger_district.geojson",
+    "bbox": [
+      -94.663925,
+      46.976708,
+      -93.88076,
+      47.381069
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/walla_walla_ranger_district/walla_walla_ranger_district.geojson",
+    "bbox": [
+      -118.773168,
+      45.423054,
+      -117.494425,
+      46.16393
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/wallowa_valley_ranger_district/wallowa_valley_ranger_district.geojson",
+    "bbox": [
+      -117.788639,
+      45.160956,
+      -116.804687,
+      45.919624
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/wall_ranger_district/wall_ranger_district.geojson",
+    "bbox": [
+      -102.815829,
+      43.683938,
+      -101.472326,
+      43.994551
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/wambaw-witherbee_ranger_district/wambaw-witherbee_ranger_district.geojson",
+    "bbox": [
+      -79.98846,
+      32.907847,
+      -79.347095,
+      33.455865
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/wapiti_ranger_district/wapiti_ranger_district.geojson",
+    "bbox": [
+      -110.172309,
+      43.801105,
+      -109.062866,
+      44.67082
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/warm_springs_ranger_district/warm_springs_ranger_district.geojson",
+    "bbox": [
+      -80.056818,
+      37.838496,
+      -79.534545,
+      38.59156
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/warner_mountain_ranger_district/warner_mountain_ranger_district.geojson",
+    "bbox": [
+      -120.417406,
+      41.105354,
+      -120.093495,
+      41.994832
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/washakie_ranger_district/washakie_ranger_district.geojson",
+    "bbox": [
+      -109.629993,
+      42.49296,
+      -108.69849,
+      43.303124
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/washburn_ranger_district/washburn_ranger_district.geojson",
+    "bbox": [
+      -91.427042,
+      46.242806,
+      -90.887531,
+      46.76082
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/watauga_ranger_district/watauga_ranger_district.geojson",
+    "bbox": [
+      -82.341197,
+      36.104349,
+      -81.646658,
+      36.61624
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/watersmeet_ranger_district/watersmeet_ranger_district.geojson",
+    "bbox": [
+      -89.469947,
+      46.097266,
+      -88.990867,
+      46.505927
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/weaverville_ranger_district/weaverville_ranger_district.geojson",
+    "bbox": [
+      -123.039239,
+      40.716208,
+      -122.518508,
+      41.274416
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/weiser_ranger_district/weiser_ranger_district.geojson",
+    "bbox": [
+      -117.039892,
+      44.484916,
+      -116.635095,
+      44.849373
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/wenatchee_river_ranger_district/wenatchee_river_ranger_district.geojson",
+    "bbox": [
+      -121.180777,
+      47.233358,
+      -120.258333,
+      48.179911
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/western_divide_ranger_district/western_divide_ranger_district.geojson",
+    "bbox": [
+      -118.849543,
+      35.789888,
+      -118.352264,
+      36.404778
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/westside_ranger_district/westside_ranger_district.geojson",
+    "bbox": [
+      -112.869628,
+      41.901425,
+      -112.012474,
+      42.905902
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/west_fork_ranger_district/west_fork_ranger_district.geojson",
+    "bbox": [
+      -115.024594,
+      45.389703,
+      -113.988498,
+      45.998667
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/white_cloud_ranger_district/white_cloud_ranger_district.geojson",
+    "bbox": [
+      -86.377548,
+      43.293821,
+      -85.482197,
+      43.729585
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/white_mountain_ranger_district/white_mountain_ranger_district.geojson",
+    "bbox": [
+      -118.865843,
+      36.918227,
+      -118.004418,
+      37.993372
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/white_sulphur_ranger_district/white_sulphur_ranger_district.geojson",
+    "bbox": [
+      -80.361323,
+      37.785475,
+      -79.959874,
+      38.119534
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/whitman_ranger_district/whitman_ranger_district.geojson",
+    "bbox": [
+      -118.518729,
+      44.263454,
+      -116.930742,
+      45.14443
+    ],
+    "size_mb": 0.04
+  },
+  {
+    "path": "data-out/forests/wilderness_ranger_district/wilderness_ranger_district.geojson",
+    "bbox": [
+      -108.643003,
+      32.893456,
+      -107.833641,
+      33.418515
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/wild_rivers_ranger_district/wild_rivers_ranger_district.geojson",
+    "bbox": [
+      -124.014806,
+      41.880614,
+      -123.308806,
+      42.713696
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/williams_ranger_district/williams_ranger_district.geojson",
+    "bbox": [
+      -112.54895,
+      34.988603,
+      -111.807899,
+      35.585077
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/wind_river_ranger_district/wind_river_ranger_district.geojson",
+    "bbox": [
+      -110.084007,
+      43.163422,
+      -109.23355,
+      43.96076
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/winn_ranger_district/winn_ranger_district.geojson",
+    "bbox": [
+      -93.083449,
+      31.69963,
+      -92.415307,
+      32.148149
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/winona_ranger_district/winona_ranger_district.geojson",
+    "bbox": [
+      -93.152513,
+      34.756984,
+      -92.754721,
+      35.014378
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/wisdom_ranger_district/wisdom_ranger_district.geojson",
+    "bbox": [
+      -113.938042,
+      45.148469,
+      -112.732705,
+      46.046396
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/womble_ranger_district/womble_ranger_district.geojson",
+    "bbox": [
+      -94.032894,
+      34.448106,
+      -93.185313,
+      34.648886
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/wrangell_ranger_district/wrangell_ranger_district.geojson",
+    "bbox": [
+      -133.069749,
+      55.839292,
+      -130.998437,
+      57.085935
+    ],
+    "size_mb": 0.67
+  },
+  {
+    "path": "data-out/forests/yakutat_ranger_district/yakutat_ranger_district.geojson",
+    "bbox": [
+      -139.863103,
+      59.124074,
+      -138.066593,
+      59.999693
+    ],
+    "size_mb": 0.09
+  },
+  {
+    "path": "data-out/forests/yampa_ranger_district/yampa_ranger_district.geojson",
+    "bbox": [
+      -107.528868,
+      39.967483,
+      -106.38766,
+      40.38131
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/yellowstone_ranger_district/yellowstone_ranger_district.geojson",
+    "bbox": [
+      -111.120589,
+      45.140222,
+      -109.808748,
+      46.287356
+    ],
+    "size_mb": 0.01
+  },
+  {
+    "path": "data-out/forests/yolla_bolla_ranger_district/yolla_bolla_ranger_district.geojson",
+    "bbox": [
+      -123.280309,
+      40.075337,
+      -122.743699,
+      40.499355
+    ],
+    "size_mb": 0.0
+  },
+  {
+    "path": "data-out/forests/yuba_river_ranger_district/yuba_river_ranger_district.geojson",
+    "bbox": [
+      -121.162098,
+      39.214341,
+      -120.423108,
+      39.720604
+    ],
+    "size_mb": 0.02
+  },
+  {
+    "path": "data-out/forests/zigzag_ranger_district/zigzag_ranger_district.geojson",
+    "bbox": [
+      -122.393408,
+      45.10222,
+      -121.680173,
+      45.598337
+    ],
+    "size_mb": 0.01
+  }
+]
