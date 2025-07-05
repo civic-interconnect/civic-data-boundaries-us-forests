@@ -23,8 +23,8 @@ Visit local API docs at: <http://localhost:8000>
 git pull
 civic-usa fetch
 civic-usa export
+civic-usa chunk
 civic-usa index
-civic-usa cleanup
 ```
 
 ## Releasing New Version
@@ -42,6 +42,7 @@ Remove-Item -Recurse -Force .venv
 pytest tests
 civic-dev prep-code
 civic-dev publish-api
+mkdocs build --clean
 mkdocs serve
 ```
 

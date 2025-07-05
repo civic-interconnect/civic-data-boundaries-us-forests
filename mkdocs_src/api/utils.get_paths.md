@@ -1,4 +1,4 @@
-# Module `civic_data_boundaries_us_forests.utils.get_paths`
+# Module `utils.get_paths`
 
 ## Classes
 

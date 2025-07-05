@@ -1,6 +1,6 @@
 [project]
 name = "civic-data-boundaries-us-forests"
-version = "0.0.1"
+version = "0.0.2"
 description = "Geographic boundary layers for Civic Interconnect projects"
 authors = [
     { name="Civic Interconnect", email="info@civic-interconnect.org" }

@@ -1,6 +1,6 @@
 # Civic Interconnect Project Documentation
 
-Welcome to the documentation hub for Civic Interconnect (CI) projects.
+Welcome to the documentation for Civic Interconnect (CI) projects.
 
 Use the navigation menu to explore available modules, APIs, and tools.
 

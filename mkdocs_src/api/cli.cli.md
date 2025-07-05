@@ -1,4 +1,4 @@
-# Module `civic_data_boundaries_us_forests.cli.cli`
+# Module `cli.cli`
 
 ## Functions
 

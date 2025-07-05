@@ -1,4 +1,4 @@
-# Module `civic_data_boundaries_us_forests.utils.chunk_utils`
+# Module `utils.chunk_utils`
 
 ## Classes
 

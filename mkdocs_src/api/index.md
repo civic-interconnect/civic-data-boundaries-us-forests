@@ -1,4 +1,4 @@
-# Module `civic_data_boundaries_us_forests.index`
+# Module `index`
 
 ## Classes
 

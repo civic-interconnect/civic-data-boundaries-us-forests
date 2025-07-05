@@ -1,0 +1,941 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+
+        <meta name="description" content="Documentation for civic-data-boundaries-us-forests">
+
+
+
+
+        <link rel="prev" href="../..">
+
+
+        <link rel="next" href="../cleanup/">
+
+
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.15">
+
+
+
+        <title>Chunk - civic-data-boundaries-us-forests Documentation</title>
+
+
+
+      <link rel="stylesheet" href="../../assets/stylesheets/main.342714a4.min.css">
+
+
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+
+
+
+
+
+
+
+
+
+
+
+
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+
+
+
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+
+
+
+
+
+
+  </head>
+
+
+
+
+
+
+
+
+
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+
+
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+
+
+        <a href="#module-chunk" class="md-skip">
+          Skip to content
+        </a>
+
+    </div>
+    <div data-md-component="announce">
+
+    </div>
+
+
+
+
+
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="civic-data-boundaries-us-forests Documentation" class="md-header__button md-logo" aria-label="civic-data-boundaries-us-forests Documentation" data-md-component="logo">
+
+
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            civic-data-boundaries-us-forests Documentation
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+
+              Chunk
+
+          </span>
+        </div>
+      </div>
+    </div>
+
+
+        <form class="md-header__option" data-md-component="palette">
+
+
+
+
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-hidden="true"  type="radio" name="__palette" id="__palette_0">
+
+
+</form>
+
+
+
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+
+
+
+
+
+        <label class="md-header__button md-icon" for="__search">
+
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+  </nav>
+
+</header>
+
+    <div class="md-container" data-md-component="container">
+
+
+
+
+
+
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+
+
+
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="civic-data-boundaries-us-forests Documentation" class="md-nav__button md-logo" aria-label="civic-data-boundaries-us-forests Documentation" data-md-component="logo">
+
+
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    civic-data-boundaries-us-forests Documentation
+  </label>
+
+  <ul class="md-nav__list" data-md-scrollfix>
+
+
+
+
+
+
+
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+
+
+
+  <span class="md-ellipsis">
+    Home
+
+  </span>
+
+
+      </a>
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+
+
+
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+
+
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+
+
+
+  <span class="md-ellipsis">
+    API Reference
+
+  </span>
+
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            API Reference
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+
+
+
+
+
+
+
+
+
+    <li class="md-nav__item md-nav__item--active">
+
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+
+
+
+
+
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+
+
+
+  <span class="md-ellipsis">
+    Chunk
+
+  </span>
+
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+
+      <a href="./" class="md-nav__link md-nav__link--active">
+
+
+
+  <span class="md-ellipsis">
+    Chunk
+
+  </span>
+
+
+      </a>
+
+
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+
+
+
+
+
+
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+
+        <li class="md-nav__item">
+  <a href="#functions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Functions
+    </span>
+  </a>
+
+    <nav class="md-nav" aria-label="Functions">
+      <ul class="md-nav__list">
+
+          <li class="md-nav__item">
+  <a href="#chunk_geojson_folderinput_folder-pathlibpath-max_features-int-output_folder-pathlibpath-none" class="md-nav__link">
+    <span class="md-ellipsis">
+      chunk_geojson_folder(input_folder: pathlib.Path, max_features: int, output_folder: pathlib.Path) -&gt; None
+    </span>
+  </a>
+
+</li>
+
+          <li class="md-nav__item">
+  <a href="#chunk_layers-none" class="md-nav__link">
+    <span class="md-ellipsis">
+      chunk_layers() -&gt; None
+    </span>
+  </a>
+
+</li>
+
+          <li class="md-nav__item">
+  <a href="#chunk_or_copy_filegeojson_file-pathlibpath-max_features-int-output_dir-pathlibpath-none" class="md-nav__link">
+    <span class="md-ellipsis">
+      chunk_or_copy_file(geojson_file: pathlib.Path, max_features: int, output_dir: pathlib.Path) -&gt; None
+    </span>
+  </a>
+
+</li>
+
+          <li class="md-nav__item">
+  <a href="#export_forest_layerlayer-dict-none" class="md-nav__link">
+    <span class="md-ellipsis">
+      export_forest_layer(layer: dict) -&gt; None
+    </span>
+  </a>
+
+</li>
+
+          <li class="md-nav__item">
+  <a href="#export_split_geojsonshp_path-pathlibpath-output_dir-pathlibpath-split_by-str-none-none-simplify_tolerance-float-001-none" class="md-nav__link">
+    <span class="md-ellipsis">
+      export_split_geojson(shp_path: pathlib.Path, output_dir: pathlib.Path, split_by: str | None = None, simplify_tolerance: float = 0.01) -&gt; None
+    </span>
+  </a>
+
+</li>
+
+          <li class="md-nav__item">
+  <a href="#get_chunking_params-dict" class="md-nav__link">
+    <span class="md-ellipsis">
+      get_chunking_params() -&gt; dict
+    </span>
+  </a>
+
+</li>
+
+          <li class="md-nav__item">
+  <a href="#get_data_out_dir-pathlibpath" class="md-nav__link">
+    <span class="md-ellipsis">
+      get_data_out_dir() -&gt; pathlib.Path
+    </span>
+  </a>
+
+</li>
+
+          <li class="md-nav__item">
+  <a href="#get_layer_in_dirlayer_output_dir-str-pathlibpath" class="md-nav__link">
+    <span class="md-ellipsis">
+      get_layer_in_dir(layer_output_dir: str) -&gt; pathlib.Path
+    </span>
+  </a>
+
+</li>
+
+          <li class="md-nav__item">
+  <a href="#get_layer_in_geojson_dirlayer_output_dir-str-pathlibpath" class="md-nav__link">
+    <span class="md-ellipsis">
+      get_layer_in_geojson_dir(layer_output_dir: str) -&gt; pathlib.Path
+    </span>
+  </a>
+
+</li>
+
+          <li class="md-nav__item">
+  <a href="#get_layer_out_dirlayer_output_dir-str-pathlibpath" class="md-nav__link">
+    <span class="md-ellipsis">
+      get_layer_out_dir(layer_output_dir: str) -&gt; pathlib.Path
+    </span>
+  </a>
+
+</li>
+
+          <li class="md-nav__item">
+  <a href="#load_all_layer_configs-listdict" class="md-nav__link">
+    <span class="md-ellipsis">
+      load_all_layer_configs() -&gt; list[dict]
+    </span>
+  </a>
+
+</li>
+
+          <li class="md-nav__item">
+  <a href="#main-int" class="md-nav__link">
+    <span class="md-ellipsis">
+      main() -&gt; int
+    </span>
+  </a>
+
+</li>
+
+      </ul>
+    </nav>
+
+</li>
+
+    </ul>
+
+</nav>
+
+    </li>
+
+
+
+
+
+
+
+
+
+
+    <li class="md-nav__item">
+      <a href="../cleanup/" class="md-nav__link">
+
+
+
+  <span class="md-ellipsis">
+    Cleanup
+
+  </span>
+
+
+      </a>
+    </li>
+
+
+
+
+
+
+
+
+
+
+    <li class="md-nav__item">
+      <a href="../cli.cli/" class="md-nav__link">
+
+
+
+  <span class="md-ellipsis">
+    Cli.Cli
+
+  </span>
+
+
+      </a>
+    </li>
+
+
+
+
+
+
+
+
+
+
+    <li class="md-nav__item">
+      <a href="../export/" class="md-nav__link">
+
+
+
+  <span class="md-ellipsis">
+    Export
+
+  </span>
+
+
+      </a>
+    </li>
+
+
+
+
+
+
+
+
+
+
+    <li class="md-nav__item">
+      <a href="../fetch/" class="md-nav__link">
+
+
+
+  <span class="md-ellipsis">
+    Fetch
+
+  </span>
+
+
+      </a>
+    </li>
+
+
+
+
+
+
+
+
+
+
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+
+
+
+  <span class="md-ellipsis">
+    Index
+
+  </span>
+
+
+      </a>
+    </li>
+
+
+
+
+
+
+
+
+
+
+    <li class="md-nav__item">
+      <a href="../utils.chunk_utils/" class="md-nav__link">
+
+
+
+  <span class="md-ellipsis">
+    Utils.Chunk Utils
+
+  </span>
+
+
+      </a>
+    </li>
+
+
+
+
+
+
+
+
+
+
+    <li class="md-nav__item">
+      <a href="../utils.export_utils/" class="md-nav__link">
+
+
+
+  <span class="md-ellipsis">
+    Utils.Export Utils
+
+  </span>
+
+
+      </a>
+    </li>
+
+
+
+
+
+
+
+
+
+
+    <li class="md-nav__item">
+      <a href="../utils.get_paths/" class="md-nav__link">
+
+
+
+  <span class="md-ellipsis">
+    Utils.Get Paths
+
+  </span>
+
+
+      </a>
+    </li>
+
+
+
+
+          </ul>
+        </nav>
+
+    </li>
+
+
+
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+
+
+
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+
+
+
+
+
+
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+
+        <li class="md-nav__item">
+  <a href="#functions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Functions
+    </span>
+  </a>
+
+    <nav class="md-nav" aria-label="Functions">
+      <ul class="md-nav__list">
+
+          <li class="md-nav__item">
+  <a href="#chunk_geojson_folderinput_folder-pathlibpath-max_features-int-output_folder-pathlibpath-none" class="md-nav__link">
+    <span class="md-ellipsis">
+      chunk_geojson_folder(input_folder: pathlib.Path, max_features: int, output_folder: pathlib.Path) -&gt; None
+    </span>
+  </a>
+
+</li>
+
+          <li class="md-nav__item">
+  <a href="#chunk_layers-none" class="md-nav__link">
+    <span class="md-ellipsis">
+      chunk_layers() -&gt; None
+    </span>
+  </a>
+
+</li>
+
+          <li class="md-nav__item">
+  <a href="#chunk_or_copy_filegeojson_file-pathlibpath-max_features-int-output_dir-pathlibpath-none" class="md-nav__link">
+    <span class="md-ellipsis">
+      chunk_or_copy_file(geojson_file: pathlib.Path, max_features: int, output_dir: pathlib.Path) -&gt; None
+    </span>
+  </a>
+
+</li>
+
+          <li class="md-nav__item">
+  <a href="#export_forest_layerlayer-dict-none" class="md-nav__link">
+    <span class="md-ellipsis">
+      export_forest_layer(layer: dict) -&gt; None
+    </span>
+  </a>
+
+</li>
+
+          <li class="md-nav__item">
+  <a href="#export_split_geojsonshp_path-pathlibpath-output_dir-pathlibpath-split_by-str-none-none-simplify_tolerance-float-001-none" class="md-nav__link">
+    <span class="md-ellipsis">
+      export_split_geojson(shp_path: pathlib.Path, output_dir: pathlib.Path, split_by: str | None = None, simplify_tolerance: float = 0.01) -&gt; None
+    </span>
+  </a>
+
+</li>
+
+          <li class="md-nav__item">
+  <a href="#get_chunking_params-dict" class="md-nav__link">
+    <span class="md-ellipsis">
+      get_chunking_params() -&gt; dict
+    </span>
+  </a>
+
+</li>
+
+          <li class="md-nav__item">
+  <a href="#get_data_out_dir-pathlibpath" class="md-nav__link">
+    <span class="md-ellipsis">
+      get_data_out_dir() -&gt; pathlib.Path
+    </span>
+  </a>
+
+</li>
+
+          <li class="md-nav__item">
+  <a href="#get_layer_in_dirlayer_output_dir-str-pathlibpath" class="md-nav__link">
+    <span class="md-ellipsis">
+      get_layer_in_dir(layer_output_dir: str) -&gt; pathlib.Path
+    </span>
+  </a>
+
+</li>
+
+          <li class="md-nav__item">
+  <a href="#get_layer_in_geojson_dirlayer_output_dir-str-pathlibpath" class="md-nav__link">
+    <span class="md-ellipsis">
+      get_layer_in_geojson_dir(layer_output_dir: str) -&gt; pathlib.Path
+    </span>
+  </a>
+
+</li>
+
+          <li class="md-nav__item">
+  <a href="#get_layer_out_dirlayer_output_dir-str-pathlibpath" class="md-nav__link">
+    <span class="md-ellipsis">
+      get_layer_out_dir(layer_output_dir: str) -&gt; pathlib.Path
+    </span>
+  </a>
+
+</li>
+
+          <li class="md-nav__item">
+  <a href="#load_all_layer_configs-listdict" class="md-nav__link">
+    <span class="md-ellipsis">
+      load_all_layer_configs() -&gt; list[dict]
+    </span>
+  </a>
+
+</li>
+
+          <li class="md-nav__item">
+  <a href="#main-int" class="md-nav__link">
+    <span class="md-ellipsis">
+      main() -&gt; int
+    </span>
+  </a>
+
+</li>
+
+      </ul>
+    </nav>
+
+</li>
+
+    </ul>
+
+</nav>
+                  </div>
+                </div>
+              </div>
+
+
+
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+
+
+
+
+
+<h1 id="module-chunk">Module <code>chunk</code></h1>
+<h2 id="functions">Functions</h2>
+<h3 id="chunk_geojson_folderinput_folder-pathlibpath-max_features-int-output_folder-pathlibpath-none"><code>chunk_geojson_folder(input_folder: pathlib.Path, max_features: int, output_folder: pathlib.Path) -&gt; None</code></h3>
+<p>Chunk all eligible GeoJSON files in a folder.</p>
+<p>Args:
+    input_folder (Path): Folder containing GeoJSON files.
+    max_features (int): Maximum features per chunk.
+    output_folder (Path): Destination folder for chunked files.</p>
+<h3 id="chunk_layers-none"><code>chunk_layers() -&gt; None</code></h3>
+<p>Chunk all exported GeoJSONs from data-in-geojson, based on YAML configs.</p>
+<p>Writes all final chunked (or copied) GeoJSONs into data-out/.</p>
+<h3 id="chunk_or_copy_filegeojson_file-pathlibpath-max_features-int-output_dir-pathlibpath-none"><code>chunk_or_copy_file(geojson_file: pathlib.Path, max_features: int, output_dir: pathlib.Path) -&gt; None</code></h3>
+<p>Decide whether to chunk a GeoJSON file or simply copy it.</p>
+<p>Args:
+    geojson_file (Path): The file to process.
+    max_features (int): Threshold for chunking.
+    output_dir (Path): Destination folder.</p>
+<h3 id="export_forest_layerlayer-dict-none"><code>export_forest_layer(layer: dict) -&gt; None</code></h3>
+<p>Export GeoJSONs from a single forest or district layer.</p>
+<p>Reads shapefiles from data-in/ and writes either single
+or split GeoJSONs into data-out/.</p>
+<p>Args:
+    layer (dict): Configuration dictionary for the layer.</p>
+<h3 id="export_split_geojsonshp_path-pathlibpath-output_dir-pathlibpath-split_by-str-none-none-simplify_tolerance-float-001-none"><code>export_split_geojson(shp_path: pathlib.Path, output_dir: pathlib.Path, split_by: str | None = None, simplify_tolerance: float = 0.01) -&gt; None</code></h3>
+<p>Export a shapefile to one or more GeoJSON files.</p>
+<p>If split_by is provided, saves one file per unique attribute value.</p>
+<p>Args:
+    shp_path (Path): Path to the .shp file.
+    output_dir (Path): Output folder.
+    split_by (str, optional): Attribute to split on.
+    simplify_tolerance (float, optional): Simplification tolerance in degrees.</p>
+<h3 id="get_chunking_params-dict"><code>get_chunking_params() -&gt; dict</code></h3>
+<p>Load chunking and simplification parameters from YAML layer configs.</p>
+<p>Returns:
+    dict: Dictionary with chunking parameters.</p>
+<h3 id="get_data_out_dir-pathlibpath"><code>get_data_out_dir() -&gt; pathlib.Path</code></h3>
+<p>Return the root data-out directory for the final committed GeoJSONs
+(chunked and ready for deployment).</p>
+<p>Returns:
+    Path: data-out directory.</p>
+<h3 id="get_layer_in_dirlayer_output_dir-str-pathlibpath"><code>get_layer_in_dir(layer_output_dir: str) -&gt; pathlib.Path</code></h3>
+<p>Return the input folder for a specific layer's shapefiles.</p>
+<p>Args:
+    layer_output_dir (str): Subdirectory under data-in/ where this layer's
+        downloaded and extracted shapefiles live.</p>
+<p>Returns:
+    Path: Full path to that layer's folder under data-in/.</p>
+<h3 id="get_layer_in_geojson_dirlayer_output_dir-str-pathlibpath"><code>get_layer_in_geojson_dir(layer_output_dir: str) -&gt; pathlib.Path</code></h3>
+<p>Return the intermediate GeoJSON folder for a specific layer.</p>
+<p>Args:
+    layer_output_dir (str): Subdirectory under data-in-geojson/ where this layer's
+        exported (but not yet chunked) GeoJSONs are stored.</p>
+<p>Returns:
+    Path: Full path to that layer's folder under data-in-geojson/.</p>
+<h3 id="get_layer_out_dirlayer_output_dir-str-pathlibpath"><code>get_layer_out_dir(layer_output_dir: str) -&gt; pathlib.Path</code></h3>
+<p>Return the output folder for a specific layer's final chunked GeoJSONs.</p>
+<p>Args:
+    layer_output_dir (str): Subdirectory under data-out/ for this layer.</p>
+<p>Returns:
+    Path: Full path to that layer's folder under data-out/.</p>
+<h3 id="load_all_layer_configs-listdict"><code>load_all_layer_configs() -&gt; list[dict]</code></h3>
+<p>Load and merge all YAML layer configs into a single list.</p>
+<p>Returns:
+    list[dict]: List of all configured layers.</p>
+<h3 id="main-int"><code>main() -&gt; int</code></h3>
+<p>CLI entry point for chunking all GeoJSON files as needed.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+              </article>
+            </div>
+
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+
+      </main>
+
+        <footer class="md-footer">
+
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+
+
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+
+</div>
+
+    </div>
+  </div>
+</footer>
+
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+
+
+
+
+      <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.expand"], "search": "../../assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+
+
+      <script src="../../assets/javascripts/bundle.56ea9cef.min.js"></script>
+
+
+  </body>
+</html>

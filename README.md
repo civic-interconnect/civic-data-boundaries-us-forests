@@ -1,6 +1,6 @@
 # civic-data-boundaries-us-forests
 
-[![Version](https://img.shields.io/badge/version-v0.0.1-blue)](https://github.com/civic-interconnect/civic-data-boundaries-us/releases)
+[![Version](https://img.shields.io/badge/version-v0.0.2-blue)](https://github.com/civic-interconnect/civic-data-boundaries-us/releases)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://github.com/civic-interconnect/civic-data-boundaries-us/actions/workflows/tests.yml/badge.svg)](https://github.com/civic-interconnect/civic-data-boundaries-us/actions)
 
@@ -37,9 +37,9 @@ See [DEVELOPER.md](./DEVELOPER.md)
 
 ## Space Requirements
 
-civic-data-boundaries-us-forests
-- x Files, y Folders
-- ~xy MB
+civic-data-boundaries-us-forests/data-out:
+- 499 Files, 500 Folders
+- ~20 MB
 
 For:
 
